@@ -1,0 +1,15 @@
+# AIエージェント活用が急拡大、Databricksが示す成長とガバナンスの壁 - AT PARTNERS
+
+**公開日:** Fri, 30 Jan 2026 00:09:24 GMT
+
+**元記事:** [https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTdqY0tLR2lldVZNWVp2eFR5UWlHSWNMNXM1bjlvZ3M4ODRYaHlvWjBQbUdjZEh5cHQzeGRtaHpZT2tWdWphdUtuQXVWYUdxN2wwbDNuREZKcW5JelpvNm5CazV0OF9OTXRZUUl4MWo3ZzJ0NkhKU2dIQm03R09zeW5nanhlS2w4M2M0eUdFX2VTTzFqQVlPSVduc3EzZmdZLWtuTWY2cVVIVDlyMlFNbkpZbUQ1V3QzVGNHcWdR?oc=5](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTdqY0tLR2lldVZNWVp2eFR5UWlHSWNMNXM1bjlvZ3M4ODRYaHlvWjBQbUdjZEh5cHQzeGRtaHpZT2tWdWphdUtuQXVWYUdxN2wwbDNuREZKcW5JelpvNm5CazV0OF9OTXRZUUl4MWo3ZzJ0NkhKU2dIQm03R09zeW5nanhlS2w4M2M0eUdFX2VTTzFqQVlPSVduc3EzZmdZLWtuTWY2cVVIVDlyMlFNbkpZbUQ1V3QzVGNHcWdR?oc=5)
+
+---
+
+## 要約
+
+Databricksの報告によると、AIエージェントの活用が急速に拡大している一方で、成長に伴いデータ管理やガバナンスの課題も顕在化している。企業は効率向上とリスク管理の両立を模索しており、適切な制御体制の整備が求められている。
+
+---
+
+*この要約はAIによって自動生成されました。*
