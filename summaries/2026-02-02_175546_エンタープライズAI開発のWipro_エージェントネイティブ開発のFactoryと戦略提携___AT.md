@@ -1,0 +1,15 @@
+# エンタープライズAI開発のWipro、エージェントネイティブ開発のFactoryと戦略提携 - AT PARTNERS
+
+**公開日:** Mon, 02 Feb 2026 03:01:29 GMT
+
+**元記事:** [https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGFDd3FCZTlLRWhLMlJGeGJVZE5oSlNQX29YVmhMRDVzN1BNRUVSOFYzbEQ4RTRaRlRLZVRYZU9fQkFveGhZYTlHcjdUN0l5VDRuN0FzWUdnTFYxdUc2Tmd2SWR1S280ZEFpbFZQcERfUUFhSUNMaE5OZkpGMEs0UXdEdmliVVVia1M4MEMxTXRvcmo4TXM4U0VoNFgzUjdQbmNUVzFzS0c5X21PZjhHUUhqTEQyVy1fNWpsT0phVERZOG9vZHh6OUYzNFNzd1YwMGYzOTE4cw?oc=5](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeGFDd3FCZTlLRWhLMlJGeGJVZE5oSlNQX29YVmhMRDVzN1BNRUVSOFYzbEQ4RTRaRlRLZVRYZU9fQkFveGhZYTlHcjdUN0l5VDRuN0FzWUdnTFYxdUc2Tmd2SWR1S280ZEFpbFZQcERfUUFhSUNMaE5OZkpGMEs0UXdEdmliVVVia1M4MEMxTXRvcmo4TXM4U0VoNFgzUjdQbmNUVzFzS0c5X21PZjhHUUhqTEQyVy1fNWpsT0phVERZOG9vZHh6OUYzNFNzd1YwMGYzOTE4cw?oc=5)
+
+---
+
+## 要約
+
+エンタープライズAI開発を手掛けるWiproは、エージェントネイティブ開発を展開するFactoryと戦略的提携を締結しました。本提携により、両社は先進的なAIソリューションの共同開発や市場展開を強化し、企業のデジタルトランスフォーメーションを支援します。
+
+---
+
+*この要約はAIによって自動生成されました。*
