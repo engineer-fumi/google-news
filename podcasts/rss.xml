@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <item>
+      <title>Daily AI News</title>
+      <description>AIによる自動生成ニュースです。</description>
+      <pubDate>Thu, 05 Feb 2026 07:26:56 GMT</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/Daily_AI_News.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://engineer-fumi.github.io/google-news/podcasts/Daily_AI_News.mp3-1770276416296</guid>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <title>AI Google News Podcast</title>
+    <link>https://engineer-fumi.github.io/google-news/</link>
+    <language>ja</language>
+    <itunes:author>engineer-fumi</itunes:author>
+    <description>GoogleニュースをAIが要約して読み上げます。</description>
+  </channel>
+</rss>
