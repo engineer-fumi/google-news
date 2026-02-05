@@ -3,10 +3,10 @@
   <channel>
     <item>
       <title>Daily AI News</title>
-      <description>AIによる自動生成ニュースです。</description>
-      <pubDate>Thu, 05 Feb 2026 07:26:56 GMT</pubDate>
-      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/Daily_AI_News.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">https://engineer-fumi.github.io/google-news/podcasts/Daily_AI_News.mp3-1770276416296</guid>
+      <description>最新のAIニュースをお届けします。</description>
+      <pubDate>Thu, 05 Feb 2026 07:30:03 GMT</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">https://engineer-fumi.github.io/google-news/podcasts/podcast_audio.mp3-1770276603720</guid>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
     <title>AI Google News Podcast</title>
