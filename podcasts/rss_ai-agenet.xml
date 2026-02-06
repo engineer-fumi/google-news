@@ -2,9 +2,12 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI News: ai-agenet</title>
-    <link>https://engineer-fumi.github.io/google-news/</link>
     <language>ja</language>
     <description>AIが選んだai-agenetに関する最新ニュース。</description>
+    <itunes:author>engineer-fumi</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology" />
+    <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
