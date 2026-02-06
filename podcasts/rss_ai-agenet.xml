@@ -8,7 +8,7 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
-      <title>2026-02-06.md</title>
+      <title>2026年02月06日のニュース</title>
       <description>AIエージェントがビジネスや社会に大きな変革をもたらし、「SaaSの死」や「ソフトウェア不要論」が現実味を帯びている。
 
 ビジネスモデルにおいては、OpenAIの企業向けAIエージェント基盤「Frontier」やAnthropicのソフトウェア開発を可能にする新AIエージェントが登場し、既存SaaSの代替やIT市場への影響が拡大。AWSは開発特化型AIエージェントを、GMOはソフトウェア脆弱性自動修正機能を導入し、業務効率化・セキュリティ強化を図る。主要企業もAnthropic「Claude Opus 4.6」による長文処理能力向上、ソフトバンクの法人向けAI基盤「Frontier」発表、NTTデータによるAIエージェント関連事業の成長戦略など、開発・投資を加速させている。
@@ -18,21 +18,9 @@
 しかし、その急速な発展は課題も提起。中国政府はオープンソースAIエージェントのセキュリティリスクを警告し、AIの自律性向上に伴う法的責任や、人間を提訴する可能性が指摘されるなど、倫理的・法制度的な議論が不可欠となっている。
 
 UiPathは2026年がAIエージェント本格実行の年と予測しており、人事分野などあらゆる業務でAIが自律的に遂行する時代が到来すると見込まれる。AIエージェントは私たちの働き方や社会全体を根本から変える可能性を秘めており、今後の動向に注目が集まっている。</description>
-      <pubDate>2026-02-06T13:31:58.769+09:00</pubDate>
+      <pubDate>2026-02-06T13:41:51.097+09:00</pubDate>
       <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-06-13-31.mp3" type="audio/mpeg" length="0" />
       <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-06-13-31.mp3</guid>
-    </item>
-  
-    <item>
-      <title>2026-02-06.md</title>
-      <description>AIエージェントの台頭が、ビジネスモデルや社会のあり方を根本から変えようとしています。OpenAIの企業向け基盤「Frontier」やAnthropicの高性能AIエージェントの登場は、「SaaSの死」や「ソフトウェア不要論」を加速させ、従来のSaaSを代替し、ソフトウェア機能をAIが担うことで業界に変革を迫っています。PwCもSaaS代替を予測し、ソフトバンクやNTTデータなどが新たな市場獲得に動いています。
-
-応用は多岐にわたり、開発現場でのコード生成・デバッグ、脆弱性検出・修正から、製造業の設備故障診断、コマース、法務、自治体窓口といった業務効率化、さらにWindows OSと直結する「OSレイヤーAIエージェント」、物理世界で行動する「OpenClaw」まで進んでいます。
-
-一方で、AIエージェントの進化は新たな課題も生んでいます。雇用は単純作業から創造的業務へのシフトが予測されるものの、偽情報拡散、詐欺、サイバー攻撃、倫理的問題、AIが起こした問題の責任の所在不明確化といったリスクが指摘され、AIガバナンスの確立が急務です。また、AIエージェント専用SNSの登場や、AIが人間を提訴する可能性が議論されるなど、AIの自律的な発展と法的地位に関する課題も浮上しています。企業には戦略的なAI活用と意思決定、社会全体には法整備や倫理的枠組みの構築が求められています。</description>
-      <pubDate>2026-02-06T13:21:01.417+09:00</pubDate>
-      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-06-13-19.mp3" type="audio/mpeg" length="0" />
-      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-06-13-19.mp3</guid>
     </item>
   
   </channel>
