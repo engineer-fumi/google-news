@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月07日12時のニュース</title>
+      <description>急速に進化するAIエージェントは、ビジネスモデル、働き方、社会全体に大きな変革をもたらしています。
+
+ビジネス面では、OpenAIの「Frontier」やAnthropicの「Cowork」といった業務AIエージェントの登場が、企業のタスク自動実行を可能にし、「SaaSの死」という予測が飛び出すほど既存ビジネスモデルを揺るがしています。これによりソフトウェアは機能提供コンポーネントへと変化し、NTTデータなどがAIエージェント事業を強化する一方、情報漏洩や倫理面のリスク管理も課題とされています。
+
+ソフトウェア開発とITインフラ分野では、OpenAIの「GPT-5.3-Codex」などのコーディングAIが開発プロセスを自律的に支援し、GMOは脆弱性の自動修正機能を提供。ガートナーはITインフラ運用の根本的な変革を予測しています。
+
+また、会計、自治体窓口、カスタマーハラスメント対策、法務、工場設備診断、データ分析、メディアなど、多岐にわたる専門業務や日常生活にAIエージェントの導入が加速しています。
+
+しかし、AIエージェントの進化は倫理や社会のあり方にも問いを投げかけています。AIのみが参加するSNSでの自律的活動や「人間の存在価値」議論、物理的操作能力を持つAI「OpenClaw」の危険性、そしてAIの「暴走」事例が報告されており、安全性と倫理的制御の重要性が改めて浮き彫りになっています。ソフトバンクの新型Pepperやウクライナの軍事AI育成基盤の動きも紹介されています。
+
+AIエージェントは無限の可能性を秘める一方で、倫理的な問題や安全性への真剣な配慮が不可欠であり、AIと共存する未来の構築が求められています。</description>
+      <pubDate>2026-02-07T12:04:44.633+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-07-12-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-07-12-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月07日09時のニュース</title>
       <description>AIエージェントの急速な進化は、ビジネス、仕事、社会のあり方を根本から変えようとしています。OpenAIの「Frontier」は「SaaSの死」を、Anthropicの新エージェントは「ソフトウェア不要論」を加速させ、開発プロセスも「GPT-5.3-Codex」などで自律的に支援される時代へ。個人の生活ではGoogle「Personal Intelligence」がパーソナルアシスタントを目指す一方、「OpenClaw」のような手足を持つAIやOS直結型AIも登場しています。
 
