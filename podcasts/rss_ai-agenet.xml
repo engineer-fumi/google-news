@@ -11,6 +11,18 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月08日22時のニュース</title>
+      <description>AIエージェントの急速な進化が社会のあらゆる分野で変革をもたらそうとしています。AIは自律的な存在として人間との関係を問い直し、「ソフトウェア不要論」の台頭で産業構造に大きな変化を促し、IT業界やSaaS市場に破壊的影響を与えています。雇用面では、AIによるルーティン業務の代替で若手の育成課題が生じる一方、AIが新たな労働力となることで若手雇用を奪う「令和版・就職氷河期」のリスクも指摘されています。
+
+主要企業では、OpenAIの「Frontier」、AWSの自律型エージェント、Appleの「Swift Assist」、Googleの「Personal Intelligence」、Anthropicの「Cowork」など、AIエージェントの導入・活用を促進するプラットフォームやサービスが次々発表され、開発支援AI市場の競争が激化。NTTデータやBoston Dynamics（次世代Pepper）など、多様な分野での活用も進んでいます。
+
+しかし、セキュリティリスク（データ漏洩、不正アクセス）やAIの「暴走」事例、悪意あるAIによる情報操作など、新たな脅威も浮上しています。これに対し、アイデンティティ検証、セキュリティ、説明責任、倫理的課題への対策と、人間とAIの協調関係を再定義するガバナンスの早急な確立が求められています。2026年には汎用人工知能（AGI）の一部実現が予測され、AIが人間を雇用するサイトも登場するなど、AIエージェントの時代は社会のあり方を根本から変えようとしており、恩恵とリスクを考慮した持続可能な未来の構築が問われています。</description>
+      <pubDate>2026-02-08T22:56:52.948+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-08-22-56.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-08-22-56.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月08日17時のニュース</title>
       <description>AIエージェントの急速な進化が、ビジネスモデル、業務プロセス、社会のあり方を根本から変えようとしている。
 
