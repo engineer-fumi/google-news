@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月11日17時のニュース</title>
+      <description>AI技術はビジネス、社会インフラ、そしてAIそのものの本質に至るまで急速な進化を遂げ、多岐にわたる影響を与えています。
+
+ビジネス分野では、高精度翻訳AI「T-4OO」が機能拡充し、システム監視やウォーターフォール開発でAI活用が進展。AIエージェントはバックオフィス業務効率化や企業ガバナンス自動化を推進し、データインフラ構築の大部分を担うまでになっています。また、東急不動産は生成AI向け高性能コンピューティング基盤を整備。
+
+AIの本質を巡っては、AIシステム「モルトブック」の「意識」に関する議論が深まる一方、LLMの信頼性評価システムや監査可能なAIエージェントプラットフォーム「emma」が登場し、AIの透明性と安全性の確保が重視されています。
+
+しかし、その急速な発展は電力消費の増大など環境への影響も大きく、NY州では大規模データセンター建設の一時停止法案が提出されるなど、倫理的・環境的な課題も浮上しています。AIは社会に変革をもたらす一方で、新たな課題も提起しており、今後の動向が注目されます。</description>
+      <pubDate>2026-02-11T17:04:11.983+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-11-17-03.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-11-17-03.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月11日12時のニュース</title>
       <description>AIエージェントは、ビジネス、セキュリティ、モビリティ、起業、キャリア形成など多岐にわたる分野で注目を集め、その活用が加速しています。
 
