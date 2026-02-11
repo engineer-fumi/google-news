@@ -11,6 +11,26 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月11日12時のニュース</title>
+      <description>AIエージェントは、ビジネス、セキュリティ、モビリティ、起業、キャリア形成など多岐にわたる分野で注目を集め、その活用が加速しています。
+
+ビジネス面では、**STANDARD**がAIエージェント実装ウェビナーを、**Acrosstudio**が企業向け無償勉強会を開催し、AI導入後の戦略支援として**AIsmiley**が実践ガイドを公開、**REAL VALUE CLUB**では経営戦略セミナーが予定されています。
+具体的なサービスとしては、**Criteo**がAIエージェントで購買体験を高める新サービスを発表し、**Content Analytics**は分析AIエージェント搭載でアワードを受賞。
+業務効率化では、**rakumo**がGoogle生成AIを活用した「rakumoエージェント」で社内ナレッジ活用を促進、**Hamocy**は人材紹介音声AIでリードタイムを70%削減、タイムカードAIエージェントは複数の帳票統合読み取りに対応し、BPO現場の効率を向上させています。
+
+セキュリティと信頼性確保も進んでおり、**OpenClaw**はVirusTotalと提携し、AIエージェントのスキルにセキュリティスキャンを組み込みました。また、**Astrix Security**は自律型AIエージェントの動きを可視化するツールを無償公開し、脆弱性検出を支援しています。
+
+次世代モビリティと国防では、無人戦闘機のAIエージェント性能検証が本格化。**LGユープラス**はAI自動運転ロボット「ユーボット」を紹介し、**Waymo**はDeepMindの世界モデルを基盤とする生成シミュレーションを発表し、自動運転車の開発を加速させています。
+
+AIは起業の形にも変革をもたらし、非エンジニアがアイデアとAIのみで事業を立ち上げる事例や、AIエージェントが求職者の就職を支援する事例も報告されています。
+
+しかし、その本格的な普及には課題も指摘されており、実用性や既存AIツールとの差別化、ユーザー利便性の確保が、AIエージェントの真価を問う鍵となると見られています。</description>
+      <pubDate>2026-02-11T12:05:27.956+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-11-12-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-11-12-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月11日09時のニュース</title>
       <description>AIエージェントは、業務効率化やビジネスモデル変革をもたらす技術として注目されています。韓国企業が情報漏洩リスクから社内AI利用を禁止する動きを見せる一方、OpenAI、AWS、Anthropicといった大手は、業務代行、企業向けプラットフォーム提供、機能強化を通じて普及を推進。OpenAIは企業向け基盤「Frontier」も発表しました。
 
