@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月15日17時のニュース</title>
+      <description>AIエージェントは、人間の具体的な指示なしに自律的に判断し、情報収集、計画立案、実行を繰り返して複雑なタスクを完遂する、従来のAIよりも高度な自律性を持つソフトウェアです。ChatGPTなどの大規模言語モデル（LLM）を基盤とし、Webブラウザやカレンダーアプリなど複数のツールと連携して動作します。
+
+例えば、「出張計画」を依頼すれば、情報収集から予約まで一連のプロセスを自律的にこなすことができます。
+
+その活用は、企業の市場調査や顧客対応、データ分析といった「業務の自動化」による生産性向上、個人の情報収集やスケジュール管理、健康管理などをサポートする「パーソナルアシスタント」として期待されています。
+
+倫理的側面や安全性といった課題は残るものの、社会や個人の生活に大きな変革をもたらす可能性を秘めています。</description>
+      <pubDate>2026-02-15T17:01:56.007+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-15-17-01.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-15-17-01.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月15日12時のニュース</title>
       <description>AI技術の急速な進化に伴い、その恩恵とともに安全性や倫理、特に自律型AIの判断や責任の所在が重要な課題として浮上しています。国内では、大手AI企業スーパーAIが政府のAI指針改定に先駆け、自律型AIの重要判断に人間の最終承認を必須とする「ヒューマン・イン・ザ・ループ」型管理機能を先行導入し、安全で責任あるAI利用を推進する動きを見せました。
 
