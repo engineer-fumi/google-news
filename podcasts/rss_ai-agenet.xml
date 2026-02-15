@@ -11,6 +11,28 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月15日09時のニュース</title>
+      <description>AIエージェントがビジネスから日常生活、社会インフラに至るまで急速に進化し、社会変革の波をもたらしている。
+
+**技術とプラットフォームの進化**
+AIエージェントの実装を効率化するSnowflakeの技術や、大規模言語モデルの信頼性を高めるRAG（Retrieval-Augmented Generation）が注目される。AI経済の基盤整備も進み、StripeはBaseブロックチェーン上でUSDC決済システムを提供開始、CoinbaseもAIエージェント特化のウォレットインフラをリリースした。中国ではBaiduが検索アプリにAIエージェント「OpenClaw」を統合し、競争が激化している。
+
+**各分野での具体的なサービスと応用事例**
+企業向けにはオーダーメイドAIロボット構築サービスや、財務・管理会計業務を効率化するAIエージェント「Audit AI for Finance」が登場。農業分野では肥料需要予測AI「Metareal ファーティライザートレンド」が経営を支援する。モビリティ分野ではデンソーが対話型AIエージェントを搭載したSDV基盤で新たな体験を創出。PCのフォルダ自動整理AI「Cowork」や、ゲーム内のNPC行動強化など、身近な領域にも応用が広がっている。
+
+**開発者の役割と未来の「ものづくり」、そしてイベント**
+AIの進化は開発現場における「ものづくり」の考え方を変え、エンジニアにはAIツールを活用した高度な問題解決能力や人間中心の設計がより求められるようになる。AIエージェントの実用化に関する「AIエージェント博」カンファレンスのアーカイブ配信や、「マルチAIエージェント戦略×東南アジアAI」セミナーなど、学習機会も増えている。
+
+**AIの信頼性とガバナンス**
+政府はAIエージェント・ロボットAIの利用指針を策定し、自律的な判断・行動をする場合でも人の判断が必須となる仕組みを明記。これを受け、カスタマークラウドはAIエージェントの出力に人間の承認を必須とする「ヒューマン・イン・ザ・ループ型AI運用基盤」を実装し、責任あるAI活用を推進している。
+
+AIエージェントは社会を根底から変革する可能性を秘めており、技術活用とともにその責任と倫理的な側面を意識し、人間とAIが共存する社会を築くことが求められる。</description>
+      <pubDate>2026-02-15T09:04:19.237+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-15-09-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-15-09-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月14日17時のニュース</title>
       <description>AI技術が社会やビジネスに革命的な変化をもたらす中、最前線のニュースが発表されました。
 
