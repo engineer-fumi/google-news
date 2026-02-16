@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月16日09時のニュース</title>
+      <description>AIエージェントは、自律的に目標達成を目指すソフトウェアであり、経済圏創出、旅行トラブル対応、製造業の故障診断、ソフトウェア開発の効率化など、多岐にわたる分野で業務効率化や顧客体験向上に大きな可能性をもたらすと期待されています。
+
+しかし、その導入には課題とリスクも伴います。日本政府は自動運転などの「フィジカルAI」に対し人間の判断義務化の方針を示し、リスク管理を重視する姿勢を示しています。運用面では、過去のRPA導入の経験から、ガバナンス欠如やメンテナンスの複雑化、従業員のAIへの信頼低下が懸念されます。情報管理とセキュリティ面では、AIエージェントへの情報提供の取捨選択の重要性や、「AIが見るもう一つのWeb」による誤情報・悪用リスクが指摘されています。
+
+こうした課題に対し、企業はAI導入ロードマップの公開、業務システム連携基盤の開発、高性能NPUによるエッジAIの進化、経営判断支援システムの提供などで対応を強化しています。AI研究大手OpenAIも、より高度なAIエージェントの開発を加速しています。
+
+AIエージェントは社会を大きく変える潜在力を持つ一方で、その導入と運用にはリスク管理と戦略的アプローチが不可欠であり、賢い活用が今後の鍵となります。</description>
+      <pubDate>2026-02-16T09:07:53.283+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-16-09-07.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-16-09-07.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月15日17時のニュース</title>
       <description>AIエージェントは、人間の具体的な指示なしに自律的に判断し、情報収集、計画立案、実行を繰り返して複雑なタスクを完遂する、従来のAIよりも高度な自律性を持つソフトウェアです。ChatGPTなどの大規模言語モデル（LLM）を基盤とし、Webブラウザやカレンダーアプリなど複数のツールと連携して動作します。
 
