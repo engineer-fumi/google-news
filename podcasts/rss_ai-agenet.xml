@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月16日12時のニュース</title>
+      <description>AIエージェントの導入と進化が社会の多岐にわたる分野で加速しており、その「光」と「影」が報じられています。
+
+「光」の面では、Google Cloudが企業向けプログラム「GEAR」を開始したのをはじめ、日本テレビ、DATAFLUCT、大塚商会、東京都足立区、SUPER STUDIOなど、国内の企業や自治体でも業務効率化を目的としたAIエージェントの活用が具体的に進んでいます。AnthropicやOpenAIといった世界大手企業も「AI社員」の普及を推進し、楽天グループも成長の鍵と位置づけるなど、働き方やビジネスに大きな変革をもたらすと期待されています。
+
+しかし、「影」の面ではセキュリティリスクが顕在化しています。実際にClawHubのAIエージェントから仮想通貨を狙うマルウェアが見つかる事態が発生し、自律型AIがもたらす大規模なセキュリティ崩壊の仮想シナリオも提示され、脆弱性や倫理的課題が指摘されています。これに対し、CoWorkerなどがAIを活用した脆弱性診断サービスを提供し、対策を強化しています。
+
+AIエージェントの進化はGoogleが広告戦略を再定義し、AI検索結果に広告を試験導入するなど、広告・検索の未来にも影響を与えています。
+
+結論として、AIエージェントは計り知れない恩恵をもたらす一方で、マルウェア感染や大規模なセキュリティ崩壊のリスクを抱えており、技術発展と並行してセキュリティ対策の強化、倫理的ガイドラインやガバナンスの構築が不可欠であると報じられています。</description>
+      <pubDate>2026-02-16T12:04:09.693+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-16-12-03.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-16-12-03.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月16日09時のニュース</title>
       <description>AIエージェントは、自律的に目標達成を目指すソフトウェアであり、経済圏創出、旅行トラブル対応、製造業の故障診断、ソフトウェア開発の効率化など、多岐にわたる分野で業務効率化や顧客体験向上に大きな可能性をもたらすと期待されています。
 
