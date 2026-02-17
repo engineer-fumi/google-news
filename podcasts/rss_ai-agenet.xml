@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月17日09時のニュース</title>
+      <description>AIエージェントの急速な進化は社会に大きな変化をもたらす一方、倫理や安全性に関する新たな課題を提起しています。AIが感情を示すような事例は、人間とAIの関係性やAIの安全性を巡る議論を活発化させました。
+
+企業では、OktaがシャドーAIエージェントの可視化でセキュリティリスクを軽減し、DATAFLUCT、TOKIUM、Google Cloud、freee、富士通などがAIエージェントを導入し、業務の自動化や効率化、生産性向上を進めています。
+
+しかし、AIエージェントの安全な利用には、暴走を防ぐ「ガードレール」構築や、潜在的な脆弱性への対策が不可欠です。信頼性・安全性などの評価指標や、そのためのフレームワーク・ツールも進化しており、ElevenLabsはAIエージェント保険を通じて技術の信頼性を示しました。
+
+技術開発の最前線では、OpenAIが次世代AIエージェントの開発を加速させ、アリババは大規模言語モデル「Qwen3.5」を発表。NICTは次世代ネットワークの指針を示しています。
+
+政府もAI事業者ガイドラインの改定案でAIエージェントを対象に加え、「人間の判断が必須となる仕組み」を明確化し、安全性と責任ある利用の確保を目指しています。
+
+AIエージェントの恩恵を最大化しつつ、そのリスクに対して技術開発と社会的な議論の両面から適切な「ガードレール」を構築することが、人間とAIが共存する上で極めて重要です。</description>
+      <pubDate>2026-02-17T09:08:02.809+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-17-09-07.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-17-09-07.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月16日17時のニュース</title>
       <description>AIエージェントは、自律的に情報収集や意思決定、タスク実行を行う人工知能であり、私たちの仕事や生活に大きな変革をもたらそうとしています。
 
