@@ -11,6 +11,43 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月18日17時のニュース</title>
+      <description>「AIエージェント」がビジネス現場で注目を集めており、その活用範囲の拡大と最新動向が報じられました。
+
+主な内容は以下の通りです。
+
+1.  **AIエージェントの構築・導入支援が活発化**:
+    *   Google Apps ScriptとGeminiを連携させたAIエージェント構築の無料ライブ講座が開催。
+    *   dandory社が数時間での基礎導入・2週間での業務実装を可能にするサービスを提供し、先着10社に無償導入支援。
+    *   ＡＲアドバンストテクノロジがソニーネットワークコミュニケーションズのAIエージェント構築支援サービスへの支援を開始。
+
+2.  **具体的なAIエージェントの活用事例と新機能**:
+    *   電話AIエージェント「DXでんわ」が電話対応状況を可視化する「ダッシュボード機能」をリリース。
+    *   法人向けAIエージェント「ChatSense」がDropbox連携機能を実装予定と発表。
+    *   法人向けラジオ広告出稿意欲分析AIエージェント「Metareal ラジオウォッチ」がプレミアムプランの提供を開始。
+
+3.  **プラットフォーム側の進化**:
+    *   BoomiのAI活用プラットフォームがデータ統合や業務自動化を促進。
+    *   Kong社がAPIプラットフォーム「Kong Konnect」に新機能「MCP Registry」を追加し、AI利用の統制・管理を支援。「AI Connectivity」のビジョンを公開。
+    *   Amplitudeが「エージェント型AI分析機能」を発表し、プロダクト体験向上を支援。
+
+4.  **大手企業・ベンチャーキャピタルの戦略的動き**:
+    *   楽天グループがAI「超活用」戦略で経済圏拡大を目指す。
+    *   ソフトバンクがOpenAI製品を自社AIエージェントに組み込む方針を示し、CPUを活用したAIコスト削減の共同検証も開始。
+    *   著名VCのAndreessen Horowitz (a16z) がAI技術開発のShizuku AIに投資。
+    *   AIエージェントブームを背景に、クラウドフレアの株価が上昇。
+
+5.  **AI戦略策定の効率化と利用上の注意点**:
+    *   Robo Co-opとPlannaがAI戦略策定を数分に短縮する「AI Agent Finder」を発表。
+    *   Microsoft Copilot Studioの無償版で作成できるAIエージェントには機能制限があり、本格的なビジネス活用には有償版が推奨される。
+
+AIエージェントは業務効率化だけでなく、企業のデジタルトランスフォーメーションを加速させ、新たな価値創造の可能性を秘めており、その進化と社会への影響に注目が集まっています。</description>
+      <pubDate>2026-02-18T17:05:12.211+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-18-17-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-18-17-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月18日12時のニュース</title>
       <description>AIの進化は止まらず、人間と協働する「相棒」としての役割を強めています。特に生成AIは社会に変革をもたらす一方で、雇用への影響、偽情報の拡散、著作権侵害、倫理的課題といった「影」の部分も顕在化しており、慎重な議論と対策が求められています。
 
