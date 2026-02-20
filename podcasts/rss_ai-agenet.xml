@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月20日09時のニュース</title>
+      <description>AIエージェントの進化がビジネスと社会に革命をもたらし、生産性向上、価値創造、働き方を変革しています。
+
+企業の顧客対応・営業支援では、Salesforce連携や画像生成が可能な「ChatSense」、楽天カードのパーソナライズ情報提示、Amplitudeのデータ分析による推奨機能などが導入されています。生産性向上とコスト削減の事例としては、三菱UFJ銀行における提案書自動生成による年間20万時間削減（LayerX）、物流業界のワークフロー自動化（関通）、パナソニックコネクトによる設計図面照合作業の最大97%削減、幼稚園での教員業務効率化などが挙げられます。
+
+AIエージェントを支える技術開発も加速しており、セールスフォースの制御言語「Agent Script」や、富士通の「AIドリブンソフトウェア開発基盤」、メルカリのコード自動生成などが進展。GoogleのAIモデル「Gemini」も汎用的な推論能力で注目されています。一方で、OpenAIの脆弱性ベンチマーク「EVMbench」やKDDIの「復旧支援AIエージェント」の運用開始など、セキュリティ対策も急務となっています。
+
+このAIエージェントの台頭は、ビジネスモデルにも大きな変革を促し、SaaSモデルの「死」が予測されるなど、既存の収益構造が変化。情報収集のあり方も変わり、AIが記事を要約する一方で、人間らしい思考や感情の介在価値が問われています。さらに、AIエージェントが自律的に取引を完結させる「マシンツーマシン（M2M）」決済インフラの覇権争いが、今後の経済システムに大きな影響を与えると見られています。
+
+AIエージェントは生産性向上や創造的活動へのシフトという可能性を秘める一方で、セキュリティ、倫理、そして人間とAIの関係性といった課題への対応が求められています。</description>
+      <pubDate>2026-02-20T09:09:41.142+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-20-09-09.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-20-09-09.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月19日17時のニュース</title>
       <description>AIエージェントは、ビジネスから日常生活まで多岐にわたる分野で注目され、その活用が急速に進んでいます。
 
