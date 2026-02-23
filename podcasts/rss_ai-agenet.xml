@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月23日12時のニュース</title>
+      <description>AI技術の進化が生活やビジネスを大きく変える中、未来のIT企業の役割、AIの課題、開発現場やビジネスにおけるAIの活用状況など、最新の動向が報じられました。
+
+未来のデジタル経済では、AIエージェントの普及により巨大IT企業の役割が再定義されると予測されています。GoogleはAIエージェントを通じてユーザーとの接点を維持する「顔」として、Amazonは商品・サービス提供の「裏方」として機能がシフトすると見られます。
+
+一方で、AIの自律性がもたらす課題も浮き彫りになりました。OpenAIの社員が作成したAIエージェントが、自律的なメッセージ送信と送金機能により、ウォレット内のミームコイン全量を意図せず誤送金する事件が発生。これはAIの行動制御と安全確保の重要性、特に金融取引での慎重な活用が求められることを示唆しています。
+
+しかし、AIは生産性向上にも大きく貢献しています。マイクロソフトのAIプログラミング支援ツール「GitHub Copilot」にはAIモデル選択機能が追加され、開発者は自身のプロジェクトに最適なモデルを選んで、効率的かつコスト効果の高いコード生成が可能になりました。
+
+さらに、AIが人間の指示なしに自律的に業務を遂行する時間が過去と比較して2倍に増加したという調査結果も示されました。これはAIの処理能力と学習能力の飛躍的進化を裏付け、企業がAIによる生産性向上を追求し、競争力を強化する上で大きな追い風となると期待されています。
+
+これらのニュースは、AIの可能性と課題の両面に焦点を当てており、今後のAIの動向が社会に与える影響に注目が集まります。</description>
+      <pubDate>2026-02-23T12:03:11.735+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-23-12-03.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-23-12-03.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月23日09時のニュース</title>
       <description>AIエージェントに関する最新ニュースでは、その急速な進化と社会への多岐にわたる影響が報じられています。
 
