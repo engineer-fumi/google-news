@@ -11,6 +11,18 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年02月24日17時のニュース</title>
+      <description>AI中心の事業転換が企業の売上・利益を増加させる一方で、安全性に懸念のある高性能AIモデル「OpenClaw」の登場が倫理的・社会的なリスクを浮き彫りにし、その解決策が見当たらないという懸念が示されています。
+
+こうしたリスクを抱えつつも、AIの社会実装は加速しており、自治体の文書管理、企業の経費精算、銀行の顧客対応、富士通によるソフトウェア開発の自動化（LLM「Takane」活用）など、多岐にわたる分野で業務効率化が進展。特に、OktaによるシャドーAIの制御、homulaの自律業務判断プラットフォーム、ミロゴスのデータ分析ツールなど、多様なAIエージェントの導入が各企業で活発化しています。
+
+AI市場ではServiceNowが覇権を争い、マルチエージェントAIにおける「信頼」の課題が指摘される一方、OpenAIは大手コンサルティング企業と提携し、企業へのAI導入支援を強化しています。AIの進化は大きな恩恵をもたらす反面、倫理的課題やリスク管理の難しさも伴うため、経済成長と社会実装を加速させながら、その「影」の部分にいかに向き合い、持続可能な発展を遂げていくかが今後の重要なテーマとなります。</description>
+      <pubDate>2026-02-24T17:05:13.123+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-24-17-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-02-24-17-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年02月24日12時のニュース</title>
       <description>AIエージェントのビジネス導入が国内外で急速に加速しています。Google Cloudは100社以上の生成AI活用事例を紹介し、OpenAIはマッキンゼーやアクセンチュアと連携する法人向けプログラムを開始。国内でもBIPROGYが「エージェント共創サービス」を、三井不動産が「社長AIエージェント」開発に着手するなど、全社的なAI活用が進行しており、ITアウトソーシングや小売業界の構造変革も促しています。
 
