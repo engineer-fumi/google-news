@@ -11,6 +11,16 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月03日09時のニュース</title>
+      <description>AIエージェントが社会変革を牽引する中、大手企業は戦略的提携と新機能発表でこの動きを加速させています。AWSはOpenAI Frontierの独占的外部クラウドプロバイダーとなり巨額投資を実施、マイクロソフトは「Copilot Tasks」で生産性向上を目指します。国内ではNTTドコモがパーソナライズAIエージェント「SyncMe」とAWS上のモバイル通信基幹網を発表し、AIが携帯電話サービスの中核を担う時代を示しました。
+
+金融、行政、バックオフィス、社会インフラなど多様な分野でAIエージェントの導入が進み、顧客体験向上や業務効率化に貢献しています。しかし、データ漏洩などのセキュリティリスク、AI活用による生産性低下の可能性、既存SaaSモデルの変革といった課題も浮上しています。企業はAIエージェントを経営戦略の中心に据え、データ活用とリスク管理、そしてAIとの新たな共存のあり方を模索することが求められています。</description>
+      <pubDate>2026-03-03T09:05:13.181+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-03-09-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-03-09-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月02日17時のニュース</title>
       <description>AIエージェントが「質問に答える」フェーズから「タスクを実行する」フェーズへと進化し、ビジネスと私たちの日常に大きな変革をもたらしています。
 
