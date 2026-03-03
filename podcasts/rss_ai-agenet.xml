@@ -11,6 +11,26 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月03日17時のニュース</title>
+      <description>今週の「週刊生成AI with AWS」では、生成AI、特にAIエージェントの目覚ましい進化とビジネスへの浸透が報じられました。
+
+セキュリティ分野では、Silverfortが既存システムに影響なく多要素認証を適用する「ゼロチェンジ」ソリューションを提供。AIエージェントの活用範囲も広がり、「JAPAN AI AGENT」の外部環境設置や、homulaとBright Dataの提携による高品質Webデータ提供が発表されました。
+
+AIエージェントの機能拡張と連携も加速しており、N-3は国内外の便利な機能を拡張する「MCPカタログ」と「楽天リモートMCPサーバー」を、freeeは会計・人事労務業務を操作できる「MCPサーバー」をオープンソースとして公開。AIエージェント開発専門知識は、製造・技術領域から業務・経営領域へと本格的に展開されています。
+
+多様な業界で導入事例が相次いでおり、イトーキのオフィス戦略支援AIエージェント、TOKIUMのAI請求照合新機能、SalesNowの営業雑務代替「SalesNow カスタムAIエージェント」、富士通の小売業向け販売戦略支援「Uvance」、日立ソリューションズのマーケティング業務自動化支援などが発表されました。
+
+生成AIプラットフォームの分野では、Allganizeが「Alli LLM App Market」を、ギブリーが「MANA Studio」に6種類のLLMを追加。Zemiも業務実行型AIエージェント基盤「Zemu Agents Guild」のアルファ版を提供開始し、ChatSenseはGoogle Gemini 3.1 Proを搭載しました。
+
+NTTドコモはAIエージェント「SyncMe」を成長戦略の核と表明。研究開発では、東京大学・NTT・NECが6G/IOWN基盤でのAR技術実証に成功。Anthropic「Claude」を用いた「Code Agent Teams」によるソフトウェア開発への影響も注目されます。AIリーダーズ会議では、汎用人工知能（AGI）の新たな「知能」指標構築の重要性が提唱されました。
+
+このように、AIエージェントは企業のデジタルトランスフォーメーションを加速させ、生産性向上、新たな価値創造、顧客体験向上に大きく貢献しています。</description>
+      <pubDate>2026-03-03T17:06:06.165+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-03-17-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-03-17-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月03日12時のニュース</title>
       <description>AIエージェントがビジネス変革の最前線に立ち、「AIエージェントの時代」が本格化しています。市場では「SaaSの死」の可能性が指摘される一方で、AI関連技術への投資は加速し、特にハードウェア需要が急増しています。
 
