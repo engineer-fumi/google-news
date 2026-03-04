@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月04日09時のニュース</title>
+      <description>AIエージェントが社会構造を大きく変革する中、各業界でその導入と活用が加速しています。
+
+**企業戦略とインフラ整備**では、SBIホールディングスが金融業務の完全AIエージェント化を計画。Microsoftは「エージェントOS」への移行を目指し「Copilot Tasks」を導入。NTTドコモ、KDDI、ソフトバンクの携帯大手3社は、AIエージェントの社会実装に向けた連携強化やインフラ整備を進め、韓国政府も産業特化型AIエージェント開発を支援しています。
+
+**サービス・ソリューション**では、NTTドコモが個人の生活をサポートするAIエージェント「SyncMe」を発表。富士通は小売業界向けソリューションを展開し、KlarnaはAIエージェントを介した決済サービスに対応。アイ・ピー・エスは多言語AIエージェントサービスを国際展開し、Algomaticは営業AIエージェント『アポドリ』で営業プロセスを効率化しています。
+
+**業務効率化と研究開発**の分野では、NTTドコモが5Gコアネットワークの設計・構築をAIで自動化し大幅な期間削減に成功。三井化学は生成AIエージェントで研究文献調査を効率化。SHIFTは品川区と連携しコンタクトセンターの自動化を実証。また、業務支援AIエージェント「うちのAI」や統合型AI実装モデルも登場し、企業全体のDXを促進しています。
+
+**誰もが活用できるAI**として、Googleは無料ノーコードAIツール「Opal」でAIエージェント作成を容易にし、法人向け「ChatSense」は最新のGemini 3.1 Proに対応。経営層では「AIエージェント×経営」が議論され、GoogleはAI投資の運用設計指針を公開。労働力不足解消のための知見継承セミナーも開催されています。
+
+その他、GMOインターネットグループはサイバーセキュリティの新分野へ進出し、TCLはAI機能搭載の手書きタブレットを発表。IBMのAIアシスタント「頼れるBob」も注目を集めるなど、AIエージェントは仕事、生活、社会のあり方を再定義し、人間と協調しながら未来を築く力として、そのさらなる進化と社会実装に期待が集まっています。</description>
+      <pubDate>2026-03-04T09:04:36.163+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-04-09-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-04-09-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月03日17時のニュース</title>
       <description>今週の「週刊生成AI with AWS」では、生成AI、特にAIエージェントの目覚ましい進化とビジネスへの浸透が報じられました。
 
