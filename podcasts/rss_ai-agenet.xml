@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月06日09時のニュース</title>
+      <description>ビジネス界で注目される「AIエージェント」は、自律的にタスクを遂行し、働き方やビジネスモデルを変革する可能性を秘めています。
+
+その能力は著しく進化しており、OpenAIの複数AIエージェントの一元管理システム「Codex」、より安全で簡潔な「NanoClaw」の開発、Anthropicのツールを活用した一人開発チーム運営手法などが登場。KPMGも次世代AIとしての重要性を強調しています。
+
+活用分野は多岐にわたり、NAVERの対話型ショッピングAI、メルカートのECデータウェアハウス、京都銀行の融資審査、みずほ銀行のAI-IVR、三井化学の研究開発、NTTドコモの5Gコアネットワーク構築や「SyncMe」の提供、大同病院の医療分野導入、バスダイヤ作成のAI化、企業内のナレッジ検索、Google Workspace連携、見積書作成支援など、広範囲で業務効率化と新たな価値創出に貢献しています。
+
+しかし、利用拡大には「正確性」や「セキュリティ」が課題とされ、従業員による「シャドーAI」のリスクや、過去のRPA導入時の複雑性・運用コストといった懸念も浮上。HuaweiのAIデータプラットフォームやMicrosoftの「Copilot+ PC」などで対応が進められています。
+
+社会全体への影響も大きく、AIエージェントは雇用の創出、データ重視のマーケティングへの転換、コンタクトセンターの自動化・効率化による顧客・従業員体験向上などを促進すると予測されています。
+
+AIエージェントは強力なツールである一方、セキュリティ、ガバナンス、倫理的側面といった多くの課題が存在し、これらの適切な対応が豊かな未来を築く上で不可欠です。</description>
+      <pubDate>2026-03-06T09:08:37.987+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-06-09-08.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-06-09-08.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月05日17時のニュース</title>
       <description>AIエージェントがビジネスから暮らしまで社会全体を大きく変革している現状が紹介された。
 
