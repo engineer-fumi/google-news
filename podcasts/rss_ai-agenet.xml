@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月07日12時のニュース</title>
+      <description>AI技術の進化がもたらす「光」と「影」に焦点を当てたこのニュース原稿は、最新動向を以下の通り報告しています。
+
+まず「光」の側面として、AI社会を支えるインフラ整備の動きがあり、NEC・東京大学・NTTが将来的なAI常時稼働によるネットワークトラフィック増大に対応するため、新たな通信インフラの共同研究開発に着手しました。
+
+一方で「影」の側面として、AIによる生産性向上が雇用喪失や経済格差拡大を引き起こす懸念が強調され、対策としてベーシックインカム導入の議論が進んでいることに触れています。
+
+生成AI市場では、米国防総省のAI契約を契機に、ユーザーが企業の倫理やデータの取り扱いを重視する傾向が高まり、AIチャットボット「Claude」アプリの利用が拡大する一方、「ChatGPT」には逆風が吹いている状況が報告されています。
+
+企業におけるAI活用の最前線として、Googleが開発コードの約50%をAIで生成することで、人員を増やすことなく高い生産性を維持している事例が紹介され、AIが企業戦略の中核となり組織を変革する可能性を示唆しています。</description>
+      <pubDate>2026-03-07T12:01:51.294+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-07-12-01.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-07-12-01.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月07日09時のニュース</title>
       <description>AIエージェントは、単に情報を提供するだけでなく、自律的に「動く」ことで、ビジネスから日常生活まで社会の変革を加速させています。
 
