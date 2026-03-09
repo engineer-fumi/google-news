@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月09日12時のニュース</title>
+      <description>AIエージェントは、自律的に目標を設定し複雑なタスクを遂行する「環境」へと進化しており、働き方や生活に大きな変革をもたらそうとしています。この進化は、現実世界を理解し未来を予測する「世界モデル」と呼ばれるAIの新たな能力に支えられ、自律的な行動計画や意思決定を可能にします。
+
+AIエージェントの活用は多岐にわたります。企業では「Agent Builder」がデータベースの検索・分析を効率化し、業務効率向上に貢献。開発現場では、手書きスケッチからReactコードを自動生成する「Visual-to-Code」や、Jiraと連携して開発ワークフローを効率化する「GitHub Copilot Coding Agent」が登場。業界特化型としては、自動車業界の販売予測・業務支援サービス「Kuruma AI」や、通信業界でネットワーク運用自動化やパーソナライズサービスをもたらすGoogle Cloudのエージェント型AIビジョンが提示されています。
+
+一方で、AIエージェントの自律性向上に伴う課題も浮上しています。セキュリティ企業のOktaは「暴走するエージェント」の例を挙げ、AIエージェントのアイデンティティ管理と認証・認可の重要性を指摘。OpenClawは自律型AIエージェントを安全に利用するための「守るべき5つのこと」を発表しています。
+
+ビジネス市場では、B2B AIエージェント市場でOpenAIからClaudeへの移行が加速しているとの報道も。国内では、SoftwareOneと日本マイクロソフトが製造業におけるAI導入のウェビナーを開催し、JVCケンウッドの事例を交え実践的な知見を提供しています。
+
+AIエージェントは社会のあらゆる側面に深い影響を与え、私たちの生活や働き方を大きく変革する時代が到来しています。責任ある活用と適切な管理が、この新たな知性がもたらす未来への期待を高めています。</description>
+      <pubDate>2026-03-09T12:03:07.147+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-09-12-02.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-09-12-02.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月09日09時のニュース</title>
       <description>AIエージェントの活用が各分野で加速しており、NTTドコモが独自AI「SyncMe」を開発するほか、Google WorkspaceはAIエージェントに開放され「次のOS」到来を示唆。ByteDanceはGPU最適化AI「CUDA Agent」を、OpenAIはWindows上で安全なAIエージェント実行を可能にする「Codex for Windows」をリリースした。
 
