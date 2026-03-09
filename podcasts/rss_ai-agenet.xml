@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月09日09時のニュース</title>
+      <description>AIエージェントの活用が各分野で加速しており、NTTドコモが独自AI「SyncMe」を開発するほか、Google WorkspaceはAIエージェントに開放され「次のOS」到来を示唆。ByteDanceはGPU最適化AI「CUDA Agent」を、OpenAIはWindows上で安全なAIエージェント実行を可能にする「Codex for Windows」をリリースした。
+
+企業による導入も活発で、東武トップツアーズは旅行AIエージェント開発に着手し、シャオミはモバイルAIエージェント「miclaw」のテストを開始。ServiceNow Japanは企業ワークフローへの生成AI統合戦略を発表した。日本企業の約8割がAIエージェント導入を「優先課題」と捉えており、「AI博覧会 Spring 2026」の開催も決定している。
+
+一方で、AIエージェントによる損害発生時の法的責任の所在が不明確な点が大きな課題として浮上。個人の利用では、AIを活用したChrome拡張機能の安全性検証手法も紹介された。技術の進化としては、レノボが物理法則を学習する「フィジカルAI」への投資を表明し、AIの精度と信頼性向上には人間が介在する「ヒューマンインザループ」が重要視されている。
+
+AI関連人材の需要も高く、トグルHDはAIエージェント事業で500人規模の採用を計画。AIエージェントが社会に与える影響は広範にわたり、今後の健全な発展には技術革新に合わせた法整備や倫理的議論が不可欠である。</description>
+      <pubDate>2026-03-09T09:04:15.068+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-09-09-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-09-09-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月08日17時のニュース</title>
       <description>AIエージェント技術の進化が、社会の多岐にわたる側面で変革をもたらそうとしています。
 
