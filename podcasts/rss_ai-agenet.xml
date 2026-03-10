@@ -11,6 +11,28 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月10日17時のニュース</title>
+      <description>AIエージェントは、ソフトウェア開発から顧客対応、防衛分野に至るまで、多岐にわたる領域で革新をもたらしています。
+
+開発現場では、**Claude Code**がAIを活用したコードレビューで品質と迅速化を実現し、**Vercel**はAIエージェント向け実行環境をオープンソース化。**NVIDIA**もオープンソースプラットフォームの提供を計画しています。
+
+業務の自動化と生産性向上では、Web業務を学習・自動実行する「**Copelf**」、Gmail業務を効率化する「**ChatSense**」、弁護士事務所の業務対応ツールを拡充した「**AILEX**」、ITシステム監視の「**AIワープ**」などが登場。
+
+エンタープライズAIの基盤強化も進み、**Boomi**がデータ活用プラットフォームを革新。**マイクロソフト**は「E7」ライセンスやAIエージェント運用プラットフォーム「Agent 365」を発表。**Google Cloud**は**Nokia**と提携し通信ネットワークのAI化を進め、**Datadog**はオブザーバビリティデータへのAIアクセスを可能にしています。
+
+顧客・住民サービスや特定業務への応用も広がり、**KDDI**は自律型AIエージェントを導入し、**株式会社SHIFT**は品川区とコンタクトセンター自動化の実証を開始。**DATAFLUCT**は菓子卸売りの営業支援に、**Microsoft**は「Copilot Cowork」、**Anthropic**はチーム向けAIエージェント「Claude」の業務特化型プラグインを提供しています。
+
+一方で、AIエージェントのセキュリティと信頼性確保は急務です。**OpenAI**はプラットフォームのセキュリティ強化のためPromptfooを買収。マッキンゼーのAIチャットボットがAIエージェントにハッキングされた事例を受け、**リード・リー**は生成AIの脆弱性を評価する「Akaoni RT」を提供開始。**日立**はAIアクセス権限管理の標準化団体に加入しました。
+
+導入の課題解決と基盤整備も進み、**GLG**が導入プレイブックを、伴走型AI業務コンサルティングと「**Egeria® AIエージェント基盤**」、**暗号屋**のAIエージェント利用効率化API基盤「x402Relay」が提供されています。
+
+社会実装のフロンティアとして、**富士通**は防衛装備庁から指揮官の意思決定を支援するAIエージェントの研究を受注するなど、AIエージェントは多様な分野でその可能性を広げています。業務効率化やサービス向上に加え、セキュリティや倫理的課題への取り組みも加速しており、今後のさらなる進化が注目されます。</description>
+      <pubDate>2026-03-10T17:07:24.572+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-10-17-07.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-10-17-07.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月10日12時のニュース</title>
       <description>AIエージェントがビジネスから行政、日常生活に変革をもたらす中、その最新動向が報告されました。
 
