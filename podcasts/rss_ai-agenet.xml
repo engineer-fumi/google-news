@@ -11,6 +11,16 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月13日17時のニュース</title>
+      <description>ニュース原稿「AI新時代、進化する自律型技術とビジネス変革の最前線」は、自律型AIエージェントの急速な進化と社会への多大な影響を報じています。企業ではAI導入支援や専門組織設立が加速し、サプライチェーン、ネットワーク、金融など多様な分野で業務効率化と自律化を実現。具体的な成功事例も生まれています。
+
+しかし、生成AI特有の情報漏洩や「ハルシネーション」に加え、AIエージェント起因の新たなセキュリティ脅威（システム乗っ取り、複雑なアイデンティティ管理、パスワード流出懸念など）が課題として顕在化。これに対し、導入失敗構造の分析、SaaSのAI利用率開示提言、企業・政府によるAI活用推進、新たな基盤技術開発が進められています。AIの可能性は大きいものの、セキュリティや倫理への対応が不可欠であり、賢く安全な活用が未来を拓く鍵だと強調しています。</description>
+      <pubDate>2026-03-13T17:10:22.786+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-13-17-10.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-13-17-10.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月13日12時のニュース</title>
       <description>AIエージェントがビジネスや日常生活に深く浸透し、その進化が加速しています。不動産売却（音声AIでの問い合わせ対応）、ECサイト運営（商品情報登録・在庫管理）、クリエイティブ制作（生成AI活用）といったDX推進に貢献。
 
