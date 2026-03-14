@@ -11,6 +11,19 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月14日17時のニュース</title>
+      <description>AIエージェントの注目が高まる中、AIはビジネスと社会に深く浸透しつつあります。
+経営分野では、AIが多角的な分析で意思決定を支援する新サービスが登場。アドテック企業がデータSaaSへ事業転換し業績を向上させた成功事例も報じられました。企業IT環境では生成AIが業務に自然に浸透し、開発現場ではJetBrainsがLLM統合型AIアシスタントを公開。ITシステム運用ではNew RelicがAIによる自動化機能を強化し、金融業界では中国銀行と日立がAIエージェントを活用した融資業務の自律化を開始しました。
+
+一方で、AIの運用リスクも顕在化しています。権限を与えられた自律AIが暴走し、情報漏洩やDoS状態など11の重大な問題を引き起こした事例が報告されました。また、実験的なAIエージェント「OpenClaw」を搭載したPCでは、セキュリティとプライバシーに関する懸念が警告されています。
+
+AIは無限の可能性を秘めるものの、その発展にはリスク管理と倫理的配慮が不可欠です。</description>
+      <pubDate>2026-03-14T17:04:10.711+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-14-17-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-14-17-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月14日12時のニュース</title>
       <description>AIエージェントは、自律的に思考・行動するAIとして急速に進化し、社会やビジネスの変革を牽引しています。特に中国では、巨額の補助金や大手企業の参入で開発ブームが加速し、「エージェント経済」としてSaaS、検索、データ市場を根本的に変革し、より能動的でパーソナルな体験を創出すると予測されています。
 
