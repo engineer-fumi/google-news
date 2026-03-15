@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月15日17時のニュース</title>
+      <description>本ニュース原稿は、AIがビジネス、開発、そして私たちの日常に多岐にわたる変革をもたらしている現状と未来について伝えています。
+
+主要な発表として、以下の点が挙げられます。
+
+*   **企業向けAI**: 株式会社ファーストイノベーションが企業・団体専用のAIを瞬時に生成し、採用・広報活動を効率化するサービス「Lumina : HR ver X」を発表。
+*   **ソフトウェア開発**: OpenAIがコードの脆弱性を検出し自動修正パッチを生成するAIセキュリティエージェント「Codex Security」を公開。また、GitHub Copilot for JetBrains IDEsにエージェント機能が導入され、開発者の生産性向上が期待されています。
+*   **日常の利便性**: NTTドコモはdアカウント情報を活用し、初期設定なしでユーザーに最適化された提案を行うAIエージェントを発表。
+*   **広告計測**: GoogleはWebMCPとMCPの併用による包括的なデータ取得と広告効果最大化の利点を解説しました。
+*   **SaaS業界の未来**: Salesforceのマーク・ベニオフCEOは「SaaSの死」論を否定し、AIの進化が市場成長の推進力となると強調。これに続き、Notionがユーザーのタスクを自律的に遂行・支援する「AIエージェント」を発表し、SaaSがAIとの融合により新たなフェーズへと進化していることを示しました。
+
+これらの動きは、AIが単なるツールを超え、自律的に考え行動する「エージェント」として、私たちの仕事や生活、ひいては生産性を飛躍的に高める可能性を秘めていることを強く示唆しています。</description>
+      <pubDate>2026-03-15T17:03:04.179+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-15-17-02.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-15-17-02.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月15日12時のニュース</title>
       <description>今週のニュースでは、AIが社会に多様な変革をもたらす可能性が報じられました。
 
