@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月17日12時のニュース</title>
+      <description>AI技術の進化に伴い、自律的な判断と実行を可能にするAIエージェントが、私たちの仕事や生活に大きな変革をもたらしつつあります。
+
+顧客体験の分野では、AIエージェントが個々の顧客に最適化されたサービスを提供する動きが活発化しており、ドコモはdポイントデータを活用したパーソナルサービス「SyncMe」を導入。
+
+ビジネスにおいては、多岐にわたる業務の効率化と生産性向上に貢献しています。営業・マーケティング活動の支援、専門文献調査期間の大幅短縮（例：1カ月が1日に）、バックオフィス業務（未入金債権回収、採用プロセス、社内問い合わせ、経理）の自動化が進展。自律型AIエージェントの法人向け構築支援サービスも登場しています。
+
+AI技術の基盤も進化しており、NvidiaはAIエージェントシステム向けのストレージアーキテクチャを発表、AMDは未来のコンピューティング像として「Agent Computer」を提唱。メタはAIエージェント専用SNS「Moltbook」を買収し、AI間の交流促進を目指しています。
+
+一方で、AIエージェントの導入には新たなリスク管理が求められます。Oktaは不審なAIエージェントを検知する機能を提供し、Googleは不適切なプロンプト使用によるアカウント停止リスクを警告。ガートナーは情報漏えいの可能性を指摘しており、NVIDIAはセキュリティ強化技術「NemoClaw」を開発するなど、対策も進んでいます。企業戦略においても、電通グループが「AIエージェント基盤」への投資を集中させる方針を示すなど、その重要性が高まっています。
+
+AIエージェントは社会のあらゆる側面に深い影響を与える可能性を秘める一方で、セキュリティや倫理的な課題への適切な対応が、その持続可能な発展には不可欠です。</description>
+      <pubDate>2026-03-17T12:05:52.906+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-17-12-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-17-12-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月17日09時のニュース</title>
       <description>AIエージェントはビジネスや生活に大きな変革をもたらす最注目技術です。
 
