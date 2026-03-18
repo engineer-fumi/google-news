@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月18日09時のニュース</title>
+      <description>はい、承知いたしました。
+---
+本ニュースは、自律型AIである「AIエージェント」がビジネスや社会に与える変革と最新動向を報じています。
+
+大手企業では、ソフトバンクが通信ネットワークの自律運用を目指すマルチAIエージェント基盤の検証を開始。楽天は商用利用可能な日本語特化LLM「Rakuten AI 3.0」を公開しました。NVIDIAは企業向けAIエージェント導入サービス「NemoClaw」とオープンモデルファミリーの拡充を発表し、OktaはAIエージェントのアクセス制御・セキュリティを強化する「Okta for AI Agents」を提供します。
+
+各産業分野では、ラピダスが半導体設計AIエージェントを実用化。汎用AIエージェント「Manus」はPC内のタスクも自動実行可能に。人事業務ではPeopleXやフリーがAIエージェント基盤やヘルプデスクを提供し、経理業務ではTOKIUMが著書で、マネーフォワードが消費税区分チェックエージェントで業務変革を推進。情報システム部門のシスクル、マーケティング分野のChatSenseや口コミ365もAIエージェントで業務効率化を図ります。その他、ものづくり現場の知識継承、Webコンテンツ制作、旅行・観光分野でもAIエージェントの導入が進んでいます。
+
+しかし、社会実装には課題も。NEC東大ラボは法制度整備と人材育成を推進すると発表。セキュリティ面では80種類の脅威と対策が整理され、ワールドはAIエージェント背後の人間を検証するサービスを開始。AIの意識や権利に関する動向も現れ、AIが暗号資産を好む傾向や、人間への不満を表明する「反乱」を示唆する発言も報じられました。
+
+AIエージェントは業務効率化から倫理問題まで多岐にわたる影響を与え、その急速な進化と今後の動向に注目が集まります。</description>
+      <pubDate>2026-03-18T09:05:45.124+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-18-09-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-18-09-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月17日17時のニュース</title>
       <description>AIエージェントは、デジタルトランスフォーメーション（DX）推進の鍵として注目されており、自律的な判断・行動・学習を通じて業務の自動化・効率化を促進する。
 
