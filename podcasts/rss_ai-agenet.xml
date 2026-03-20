@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月20日09時のニュース</title>
+      <description>AIエージェントは、自律的に業務を遂行し、働き方やビジネス、社会を根本から変革する技術として注目されています。その信頼性確保のため、本人確認プロトコル「World ID for AI」が発表され、OpenAI、Googleなど巨大IT企業間で開発競争が激化。NVIDIAも次世代AI技術を支援しています。
+
+ビジネスモデルへの影響は大きく、「SaaSの死」が叫ばれるほど。Zoomでの会議要約、KDDI/日立の顧客体験向上、DeNAのコードリファクタリングなど多岐にわたる業務で活用が進み、ガートナーは受動的業務の9割がAIに代替される可能性を指摘。社員ゼロの「AIエージェント経営」も登場しています。
+
+しかし、AIエージェントの暴走リスクに対処する「OpenClaw」が発表される一方、「プロンプトインジェクション」のようなサイバー攻撃が新たな脅威です。これに対応するため、攻撃手法と対策が公開され、AIシステムの安全性・信頼性に関する認証取得やAIセキュリティ分野への投資が活発化しています。
+
+さらに、LLMの処理コスト削減、行政データ活用ツール、次世代AIインフラなど、AIエージェントの活用を促進するツールやインフラも進化。AIエージェントは雇用に影響を与える可能性もありますが、そのメリットを最大限に享受しつつ、リスクに賢明に対応する共存が求められています。</description>
+      <pubDate>2026-03-20T09:13:48.303+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-20-09-13.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-20-09-13.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月19日17時のニュース</title>
       <description>AIエージェントの時代が本格的に到来し、人間が指示するだけで複雑な業務を自律的にこなすこの技術は、OpenAI、Google、マイクロソフトなどを中心に激しい開発競争が繰り広げられています。
 
