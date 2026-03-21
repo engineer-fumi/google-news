@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月21日17時のニュース</title>
+      <description>AIエージェントの時代が本格的に到来し、OpenAI、Google、マイクロソフトなど主要6社が開発競争を繰り広げています。AIが人間からの指示で複雑な業務を自律的に完遂するこの技術は、レポート作成からデータ分析まで幅広い分野でビジネス革命をもたらすと期待されています。
+
+具体的な動きとして、日本のマネーフォワード社は会計ソフトにAIエージェント「消費税区分チェックエージェント」を提供開始し、仕訳データの誤りを自動検知することで会計事務所の業務効率化を支援します。また、米国のAnthropic社はAIアシスタント「Claude」の新機能「Dispatch」を発表。スマートフォンからの指示で遠隔PC上のClaudeが資料作成などを自律実行できるようになり、場所を選ばないAI活用が可能になります。
+
+AIエージェント時代のインフラを支える動きとして、ERPC社はLinux環境のシステム全体をワンコマンドでバックアップできるグローバル分散ストレージ「ERPC Global Storage」の提供を開始し、高速かつ安全なデータ運用基盤を提供します。
+
+市場予測では、AIエージェントシステム産業は2026年から2033年にかけて年平均成長が見込まれており、この技術が働き方や生活に大きな変革をもたらし、人間とAIが協力する未来が着実に近づいていることが示唆されています。</description>
+      <pubDate>2026-03-21T17:02:34.634+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-21-17-02.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-21-17-02.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月21日12時のニュース</title>
       <description>AI技術の進化が生活やビジネスに革新をもたらす中、最新の生成AIとAIエージェントの動向、そしてその開発アプローチの違いが紹介されました。
 
