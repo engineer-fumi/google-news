@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月21日12時のニュース</title>
+      <description>AI技術の進化が生活やビジネスに革新をもたらす中、最新の生成AIとAIエージェントの動向、そしてその開発アプローチの違いが紹介されました。
+
+生成AIのトレンドとして、日常会話でユーザー好みのAIエージェントを育成できる「OpenClaw-RL」と、一枚のイラストからLive2D用分割素材を自動生成し、クリエイターの負担を軽減する「See-through」が注目されています。これらはAIによるパーソナライズとクリエイティブ作業支援の進展を示しています。
+
+AIエージェントの開発アプローチでは、欧米（特に米国）がGPT-4のような汎用AIや基盤モデルを重視し、論理的思考・推論能力の向上を目指すのに対し、中国は政府支援のもと、スマートシティや監視システムといった実用的な社会実装と特定課題解決に特化したAI活用を推進しています。
+
+ビジネス分野では、ContentsquareがAIエージェントとユーザーのインタラクションを詳細に可視化する新機能を提供開始。これにより企業は、AIを活用したデジタル体験の課題を発見し、最適化することで顧客エンゲージメントの向上を図ることが可能となります。
+
+AI技術は、個人の日常からクリエイティブ、ビジネスの最適化、さらには国家戦略に至るまで、多様なアプローチで進化し、新たな可能性を切り開いています。</description>
+      <pubDate>2026-03-21T12:02:26.703+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-21-12-02.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-21-12-02.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月21日09時のニュース</title>
       <description>2026年に向け、AIエージェントがビジネス変革の主役として急速に注目されています。
 
