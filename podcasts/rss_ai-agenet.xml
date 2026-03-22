@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月22日12時のニュース</title>
+      <description>AI技術の進化が続く中、エヌビディアとメタがAIエージェントに関する新たな戦略を発表しました。
+
+AI半導体大手のエヌビディアは、AIエージェントの自律的かつ安全な動作を支援する基盤「ネモークロー」を発表。これにより、AIエージェントの予測不能性や誤動作のリスクに対応し、同社は従来のハードウェア提供からAIのガバナンス（管理・統制、安全性・信頼性）領域へと事業を拡大する方針を示しました。
+
+一方、ソーシャルメディア企業のメタは、AIエージェント専用のSNS「モルトブック」を買収しました。この動きは、AIエージェント市場の拡大を見据え、AIエージェント同士や人間との新たなコミュニケーションを可能にする次世代のプラットフォーム構築を目指すものです。
+
+これら両社の戦略は、AIエージェントの本格普及に向け、「安全性と信頼性」の確保と「新たな社会空間」の創造という両面から、AIが社会インフラとなり新たな経済圏を形成していく未来を示唆しています。</description>
+      <pubDate>2026-03-22T12:02:07.279+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-22-12-01.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-22-12-01.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月22日09時のニュース</title>
       <description>AIが人間の代わりに複雑なタスクをこなし自律的に活動する「AIエージェント」の時代が本格化しています。
 
