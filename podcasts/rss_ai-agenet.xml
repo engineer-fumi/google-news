@@ -11,6 +11,23 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月22日17時のニュース</title>
+      <description>「AI時代のフロンティア」では、AIがITインフラから日々の業務、未来のソフトウェア開発まで、社会にもたらす革新的な変化が紹介されました。
+
+主な内容は以下の通りです。
+
+*   **SLV Migrate Linux**: AIエージェントを活用し、企業のサーバー環境の複雑な移行作業をワンコマンドで劇的に簡素化。ITインフラ構築の自由度と柔軟性を高め、デジタル変革を加速させます。
+*   **Mistral AIのLeanstral**: 定理証明支援ツール「Lean 4」に対応したAIエージェントで、数学やコンピュータサイエンスの研究において、人手による証明確認作業を効率化し、開発・研究を大幅に加速させます。
+*   **NTTドコモの会議支援エージェントシステム**: AIエージェントが会議に参加し、議事録作成、発言要約、関連情報提示をリアルタイムで行うことで、会議の生産性と創造性を向上させ、質の高い意思決定を支援します。
+*   **Replitの「バイブコーディング」**: AIを活用し、コードを一切書かずにアプリケーション開発を行う新概念。プログラミングスキルがない人でもアイデアを形にできる「開発の民主化」を目指します。
+
+これらの事例は、AIが様々な分野で効率化と新たな可能性を切り開き、私たちの想像を超えるスピードで社会に浸透していることを示しています。</description>
+      <pubDate>2026-03-22T17:03:26.616+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-22-17-03.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-22-17-03.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月22日12時のニュース</title>
       <description>AI技術の進化が続く中、エヌビディアとメタがAIエージェントに関する新たな戦略を発表しました。
 
