@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月22日09時のニュース</title>
+      <description>AIが人間の代わりに複雑なタスクをこなし自律的に活動する「AIエージェント」の時代が本格化しています。
+
+その進展として、複数のリモートPCを横断実行できるAI-to-PCゲートウェイ「Nefia」が登場し、AIの活動範囲を拡大。また、AIエージェント向けの初の資金送金インフラ「AgentPay」により、AIが自律的に経済活動を行う基盤も整いつつあります。
+
+クリエイティブ分野では、実写とAIを融合させた映像制作ワークフロー「シネアニ」が提供開始され、従来の制作では困難だった高度なコンテンツ制作とコスト削減を両立。メディア業界でも、AI編集エージェント「sonata」がインタビュー記事制作効率を87%向上させ、WordPress.comもAIエージェントによる記事執筆・公開機能を導入するなど、コンテンツ制作効率が大幅に向上しています。
+
+OpenAIやGoogleなどの大手企業が開発競争を繰り広げ、AIが自律的にタスクをこなす「AIエージェント革命」が進行中です。
+
+一方で、急速な進化に伴うリスクも顕在化しており、危険なAI「OpenClaw」の脅威に対し、NVIDIAが新たな安全策「NemoClaw」を発表し、安全かつ責任あるAIの展開を支援する狙いです。
+
+AIエージェントは多岐にわたる分野に大きな変革をもたらす一方で、倫理的利用やセキュリティ確保といった課題も伴うため、その発展は注視が必要です。</description>
+      <pubDate>2026-03-22T09:02:53.297+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-22-09-02.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-22-09-02.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月21日17時のニュース</title>
       <description>AIエージェントの時代が本格的に到来し、OpenAI、Google、マイクロソフトなど主要6社が開発競争を繰り広げています。AIが人間からの指示で複雑な業務を自律的に完遂するこの技術は、レポート作成からデータ分析まで幅広い分野でビジネス革命をもたらすと期待されています。
 
