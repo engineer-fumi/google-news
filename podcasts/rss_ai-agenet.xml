@@ -11,6 +11,16 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月24日12時のニュース</title>
+      <description>AIエージェントはビッグデータ市場の主要な成長ドライバーであり、トークン消費量の急増により「トークン経済」が現実化しています。Anthropicは企業業務自動化エージェントを強化し、Twilioは日本市場での対話型AI戦略を進めるなど、各社で開発が加速。複数のAIエージェントを協調させる技術（CognitionのDevinなど）も登場し、研究開発、専門分野、日常生活まで活用が拡大し、ヘッドレスブラウザ、翻訳、情報探索代行などの効率化ツールも多様化しています。企業では共同ピーアールがAIエージェントを社員として配属するなど、組織への統合も進んでいます。
+
+しかし、AIの制御喪失、倫理問題、サイバーセキュリティリスクといった課題も顕在化しており、安全な利用環境の構築が急務です。開発現場ではAI活用が進む一方、適切なプロンプト作成スキルやレビュー能力の重要性が指摘されています。社会全体では、ウェブのあり方や働き方が変革され、AI活用能力がキャリアアップの必須条件となるなど、広範囲な影響が予測されています。AIエージェントの無限の可能性に期待が寄せられる一方で、倫理、セキュリティ、社会適応といった課題への対応が強く求められています。</description>
+      <pubDate>2026-03-24T12:05:19.321+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-24-12-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-24-12-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月24日09時のニュース</title>
       <description>AIエージェントが働き方やビジネスを大きく変革する「第3の波」として、世界中で導入が加速しています。国内では、上場企業がAIエージェントに社員番号を付与して秘書業務を委任する初の試みや、音声対応AIエージェントの導入事例が見られます。世界市場は数十億ドル規模に急成長し、中国の生成AI「OpenClaw」は劇的な効率化をもたらし、企業組織に構造変革を促すと報じられています。
 
