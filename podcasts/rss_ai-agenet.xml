@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月27日12時のニュース</title>
+      <description>AI技術の進化が加速し、特に自律的にタスクを実行する「AIエージェント」が多岐にわたる分野で注目を集めています。
+
+生成AI分野では、OpenAIが動画生成AI「Sora」の終了を発表する一方、Googleは最大3分の楽曲を生成できる音楽AI「Lyria 3 Pro」を投入しました。
+
+AIエージェントは、米労働省の問い合わせ対応をはじめ、企業内の業務効率化（Workday、常陽銀行、LayerX）、建設業界の工程表自動生成、海運のAI番頭、法務分野の契約書分析、ソフトウェア開発のコード生成・レビューなど、専門性の高い分野でも幅広く導入され、生産性向上に貢献しています。
+
+さらにNVIDIAはパーソナルAIのOS「OpenClaw」を提唱し、ウェブブラウザ操作AIや金融分野のAI取引機能も登場するなど、よりパーソナルで自律的な進化が進展。AIエージェントは、ビジネスモデルの再発明や企業コンピューティングの変革、エージェンティックインターネットの基盤となる可能性を秘めています。
+
+一方で、AI活用における戦略不足やデータ品質の問題、AIシステム自体の脆弱性や学習データの改ざんといった新たな脅威への対応「Security for AI」が課題として挙げられています。
+
+AIエージェントは働き方やビジネスに大きな変革をもたらす可能性があり、今後の動向が注目されます。</description>
+      <pubDate>2026-03-27T12:13:36.967+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-27-12-13.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-27-12-13.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月27日09時のニュース</title>
       <description>AIエージェントが社会のあらゆる側面で急速に普及し、金融、小売、企業業務、自治体、デザイン・開発など多岐にわたる分野で業務効率化や新たな価値創出に貢献しています。三菱UFJ銀行の営業支援ツール導入、ウォルマートのAIコマース、東京都や大阪市の業務効率化、Figmaのデザイン自動化機能などがその具体例です。マイクロソフトの「Copilot」最上位ライセンスやHPのデバイス内AIエージェント「HP IQ」など、大手企業もAIエージェント活用を推進しています。
 
