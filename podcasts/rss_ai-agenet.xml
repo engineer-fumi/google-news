@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月28日09時のニュース</title>
+      <description>2025年以降、働き方や生活を大きく変える「AIエージェント」は、チャットボットから進化し、複雑なタスクを自律的に実行して多様な産業に影響を与えるとされる。日本企業は、長年蓄積した個人の趣味嗜好・行動履歴データとAIの融合で国際競争力を高める好機を迎える可能性がある。
+
+技術面では、異なるシステム間の相互運用性を高めるため「Agent Protocol Alliance (APA)」が発足し標準化を推進。開発者向けの新基盤「Agent Framework」なども提供されている。
+
+ビジネス活用は急速に広がり、非エンジニア向けデータ分析ツール「Claude Code」、Box Japanや日立製作所による企業内導入、法務特化の「LegalAgent」、自律型電話AIエージェント「スパ電」、金融実務LLMなどが登場。開発現場ではGitHub Copilotが「コーディングエージェント」利用指標を追加し、AWSもデプロイ作業効率化ツールを提供している。
+
+一方で、機密データ漏洩などのセキュリティリスクに対し、厳格なガバナンスとアクセス管理の確立が急務となっている。
+
+AIエージェントは、将来的に自律的な購買・決済を自動化する経済活動、エンジニア組織の変容、農業分野での応用、さらにはAIエージェントの正社員採用といった新たな取り組みも進展させている。社会、経済、個人の生活に大きな変化と可能性をもたらす「AIエージェント時代」の到来が示唆されている。</description>
+      <pubDate>2026-03-28T09:05:42.925+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-28-09-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-28-09-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月27日17時のニュース</title>
       <description>AIエージェントが私たちの仕事や生活、そして社会を根本から変革しつつある現状が報告されました。
 
