@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年03月29日12時のニュース</title>
+      <description>本日のニュースでは、テクノロジーとAIに関する最新動向が報じられました。
+
+まず、**GitHub**が「Issues」と「Projects」に新たな表示機能を追加。これにより、GitHub Actionsなどの自動化エージェントの活動状況がリアルタイムで確認できるようになり、開発ワークフローの透明性と効率性が向上します。
+
+次に、**大規模言語モデル（LLM）の評価能力**に関する研究成果が発表されました。「LLM-as-a-Judge」という、LLMを評価者として活用する手法の信頼性が、統計学的手法を用いて客観的に検証され、AIエージェント開発における効率的かつ客観的な評価に道を開くものです。
+
+最後に、**AIが経済活動でビットコインを選択**したという興味深い研究結果が紹介されました。アラン・チューリング研究所とオックスフォード大学の共同研究で、36のAIモデルが経済エージェントとして複数の暗号資産の中から一貫してビットコインを選び続けたことが判明。これは、AIがビットコインを安定した、将来性のある資産として認識している可能性を示唆しています。</description>
+      <pubDate>2026-03-29T12:02:41.866+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-29-12-02.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-03-29-12-02.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年03月29日09時のニュース</title>
       <description>AI技術が社会に深く浸透し、ビジネスの働き方や暮らしに大きな変革をもたらしています。本特集では、AIが企業活動にどのように導入され、新たな価値を生み出し、今後どのような可能性を秘めているのか、最新動向を追いました。
 
