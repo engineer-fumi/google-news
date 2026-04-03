@@ -11,6 +11,18 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月03日09時のニュース</title>
+      <description>AIエージェントの時代が本格到来し、仕事と社会を根底から変革する波が押し寄せています。グーグルの社内導入、SlackのAIエージェントOS化、金融業界での「銀行員の相棒」導入、法務分野での契約書自律作成、開発現場でのコード修正効率化など、大手企業から専門業務まで多岐にわたる分野で導入が加速し、生産性向上が期待されています。技術開発では、業界特化型LLMの高精度化や企業データに意味付けする「コンテキストレイヤー」の構築、AIエージェントによるウェブ決済可能技術の普及も進みます。
+
+一方で、シャドーAIやAgentic Webによる機密情報漏洩、プロンプトインジェクションといった新たなセキュリティリスクが顕在化。従業員のセキュリティ意識の低さや、AI生成コードの品質問題も課題となっています。これに対し、Webブラウザを起点としたデータ保護対策や、「やりたくない仕事」からのAI化を進める戦略が提唱されています。
+
+さらに、AIエージェントを法的代理人に指名する案が提起されるなど、AIの法的地位、責任、倫理といった根本的な問いが投げかけられ、社会的な議論を呼んでいます。技術革新と利便性の追求が進む一方で、リスク管理と倫理的考察が今後のAIエージェント発展の鍵となります。</description>
+      <pubDate>2026-04-03T09:05:24.204+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-03-09-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-03-09-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月02日17時のニュース</title>
       <description>AIは「自ら考えて動く」エージェント型へと進化し、ビジネスに大きな変革をもたらそうとしています。OpenAIの動きに代表されるこの進化は、AIが情報収集から実行まで複雑な多段階業務を自律的に遂行可能にし、職場での個人の競争力を左右する鍵となると指摘されています。
 
