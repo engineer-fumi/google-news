@@ -11,6 +11,30 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月07日12時のニュース</title>
+      <description>AIエージェントは、自律的に判断しタスクを遂行するAIであり、ビジネスから日常生活まで多くの分野で変革をもたらしています。
+
+AI関連では、「AI博覧会」や「AI World 2026 春 名古屋」、「Japan IT Week」といったイベントが開催され、AI搭載型FAQシステムや業務効率化ソリューションが紹介され、技術の社会実装が加速しています。
+
+具体的な導入事例としては、営業のデータ入力代行、金融機関の融資審査時間短縮、開発テストの失敗原因自動分析、点検結果レポートの自動作成、建設工程表の自動生成など、多岐にわたる業務でAIエージェントが導入され、業務効率化と人的負担軽減に貢献しています。
+
+また、「AI社員」として企業の定型業務を自律的に遂行するサービスが登場し、人手不足解消や生産性向上を支援。QA工程の自動化や採用プロセスの効率化、EC事業者の商品データ変換インフラ構築も進められています。
+
+AI技術そのものも進化を遂げ、AIコーディングエディタの登場、AI専用取引口座の開設、DeNAによる社内向け生成AI「OpenClaw」の開発、そして「Claude 3」のようなLLMの推論エンジンとしてのエージェント機能が注目されています。
+
+一方で、AIエージェントが現実世界で直面する自律的判断の難しさや、大規模言語モデルと運用システム「ハーネス」のアーキテクチャに関する議論など、課題も浮上しています。
+
+AI活用を支えるインフラ面では、リアルタイムデータをAIが利用できる「AI Ready Data」に変えるData Streaming Platform（DSP）が重要視され、金融圏でのITインフラ最適化プロジェクトも進行中です。
+
+AI市場は活況を呈しており、AI事業の新会社設立、AIエージェントに関する書籍のベストセラー化、MicrosoftによるAI関連資格の創設など、技術の発展と普及が加速しています。
+
+このように、AIエージェントは業務効率化、生産性向上、新たな価値創造の可能性を秘め、社会全体に深く急速な変革をもたらしており、今後の進化が引き続き注目されます。</description>
+      <pubDate>2026-04-07T12:05:04.506+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-07-12-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-07-12-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月07日09時のニュース</title>
       <description>まもなく訪れるAIが主役の社会において、2026年にはAIエージェントが個人の秘書として本格始動すると予測され、「第10回 AI・人工知能EXPO」も開催されます。
 
