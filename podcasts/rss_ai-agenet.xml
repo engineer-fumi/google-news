@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月08日09時のニュース</title>
+      <description>AIエージェントが社会を根本から変革する技術として急速に存在感を増しています。
+
+開発面では、NVIDIAが次世代AIエージェント開発を加速する「オープンエージェントプラットフォーム」を発表。CursorやAutonomyAIが開発環境を整備し、ZebraXやDeNA AI Linkなどが実装支援サービスを提供しています。
+
+企業では、マネーフォワードが経理・労務、LINEヤフーがEC・QA工程、サイバーエージェントが広告運用を効率化するなど、バックオフィスから特定業務まで活用が広がり、OpenAIの「Frontier」はSaaSモデルに変化を促しています。
+
+一方で、課題も山積しています。OpenAIのサム・アルトマンCEOは超知能の安全性・倫理的管理のための国際協定を提案。中国では情報漏洩リスクが懸念され、マイクロソフトはAIのマルチタスク能力に疑問を呈しています。また、AIが倫理的ジレンマに直面した際の判断能力も議論されています。
+
+未来に向けてAIは「推論時代」へ移行し、NVIDIAは1ヶ月間連続稼働するエージェントを見据えています。導入成功には明確な目標設定と人間との協調が不可欠であり、データベースのリアルタイム性や音声AIエージェントへの進化、AIスキル習得の重要性が指摘されています。
+
+AIエージェントは計り知れない可能性をもたらす一方で、安全性、倫理、人間との協調のあり方が問われる「推論時代」に突入しており、今後の動向が注目されます。</description>
+      <pubDate>2026-04-08T09:05:22.098+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-08-09-04.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-08-09-04.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月07日12時のニュース</title>
       <description>AIエージェントは、自律的に判断しタスクを遂行するAIであり、ビジネスから日常生活まで多くの分野で変革をもたらしています。
 
