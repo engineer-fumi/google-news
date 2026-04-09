@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月09日12時のニュース</title>
+      <description>自律的に思考・行動する「AIエージェント」が、企業の生産性向上から社会インフラの変革まで、幅広い分野で影響力を強めています。
+
+大企業向けでは、AIの理解度と信頼性を高める「コンテキストグラフ」が注目され、IBMはAIエージェントの性能評価ベンチマーク「VAKRA」を発表。AnthropicはAIエージェントの機能をモジュール化し、応答速度を最大90%向上させました。大規模言語モデル単体ではなく、既存システムとの連携が「使えるAI」には不可欠とされています。
+
+ビジネス現場では、IT運用管理（Hinemos®）、保守・メンテナンス支援（COROKO Field Intelligence）、会議議事録共有（ChatSense）、企業内検索（QuickSolution）、バックオフィス業務代行（Cowork）、電話応対（スパ電）、組み込みソフトウェア開発、学生サポートなど、多岐にわたる活用事例が登場しています。
+
+一方で、サイバー攻撃の標的がAIインフラへと移行し「AIエージェントトラップ」などの新たな脅威が出現。AI活用格差解消のため中小企業向け支援も進みます。決済分野では「エージェント型決済」が普及する一方、セキュリティやプライバシーが課題。AI時代の若手人材には「指示力」と「現場力」が不可欠とされます。Metaは視覚理解AI「Muse Spark」を発表し、中国でもAIエージェントへの注目が高まるなど、その進化は止まりません。</description>
+      <pubDate>2026-04-09T12:06:02.116+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-09-12-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-09-12-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月09日09時のニュース</title>
       <description>AIエージェントは、私たちの働き方やビジネスのあり方を根本から変革しようとしています。
 
