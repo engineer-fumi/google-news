@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月10日17時のニュース</title>
+      <description>自律的にタスクや目標を実行する「AIエージェント」が注目を集めており、ビジネス、行政、宇宙開発といった幅広い分野でその適用が拡大していると報じられました。
+
+企業向けには、ピクアポンやmalnaが導入・運用支援、B.AIが開発インフラを提供。Intercomは国内スタートアップを支援し、Googleは開発者ガイドを公開するなど、導入と開発を後押しする動きが活発です。また、博報堂DY ONEはAI活用におけるガバナンス構築を支援しています。
+
+多様な業界での活用事例としては、ヘッドウォーが製品パッケージ設計、Celonisがオペレーションズ管理を効率化。Anthropic、ServiceNow、AWSは企業向けAIチャットやクラウドサービスを強化し、医療機関向け「MedPlato」や金融機関での顧客対応AIも登場しています。自治体でもファイル管理支援や大阪市と日立製作所による業務効率化の共同検証が進められています。
+
+AIエージェントの進化は、Arcee AIによるオープンモデル公開やエージェント型AIコーディングツールの市場競争激化をもたらす一方、ガートナーがセキュリティリスク増加を予測するなど、課題も浮上しています。Amazonのビジネスモデルへの変革の可能性も指摘されています。
+
+さらに、社会実装プロジェクト「AUTOMATA」は、AIエージェントを用いて宇宙空間に人工生命を創り出すという壮大な挑戦を開始。AIエージェントは無限の可能性を秘める一方で、技術の進歩と並行してセキュリティや倫理面での議論、新たなビジネスモデルへの適応が不可欠であり、社会にもたらす変革は今後さらに加速すると結ばれています。</description>
+      <pubDate>2026-04-10T17:07:08.368+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-10-17-06.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-10-17-06.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月10日12時のニュース</title>
       <description>AIエージェントがビジネスから社会実装まで広範な分野で革新をもたらし、働き方や社会のあり方を変えようとしている。
 
