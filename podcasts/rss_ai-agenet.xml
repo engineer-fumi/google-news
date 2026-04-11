@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月11日12時のニュース</title>
+      <description>AI技術の進化がビジネスや社会実装に広がる中、最新動向として様々な動きが見られます。
+
+**主な動きは以下の通りです。**
+
+*   **イベント・展示会**: 「AI・人工知能EXPO【春】」での生成AIと人間共創の未来に関する講演（シンシアリー國本氏）、中小企業向けDX推進セミナー（リベンリ秋田）、AI博覧会でのAIソリューション発表（Helpfeel、バイタリフィ）、IP戦略とビジネス変革「AX」を議論するフォーラム（AIデータ社）などが開催されています。
+*   **新サービス・キャンペーン**: 地方自治体向け資料作成効率化サービス（ChatSense）、企業向け生成AI導入支援キャンペーン（インソース）、スタートアップ向けAIエージェント無償提供プログラム（Intercom）、法人向けAIプラットフォーム「Claude Cowork」の一般提供（Anthropic）、AI活用スキル向上プラットフォームとAIエージェント導入・運用支援（malna）などが展開されています。
+*   **企業連携・技術開発**: AIエージェントソリューション開発での戦略的提携（Helport AIとQuickCEP）、製造現場での「AI伴奏型のものづくり」の実現（デンソー工機部とマイクロソフト）、新言語「Agent Script」によるAIエージェント高速開発（Salesforce）などが進められています。
+
+これらの動きは、AIが働き方やビジネスモデルを根本的に変革し、特にAIエージェントの活用により、モバイルアプリ開発が「コード作成」から「仕様定義」へとシフトしていることを示しています。AIは単なるツールではなく、新たな価値を創造する共創のパートナーとして進化を続けています。</description>
+      <pubDate>2026-04-11T12:04:00.996+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-11-12-03.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-11-12-03.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月11日09時のニュース</title>
       <description>AIエージェントの最新動向は、開発の劇的な加速から行政、企業、個人の生活、そして未来まで広範囲にわたる変革をもたらしています。
 
