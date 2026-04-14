@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月14日09時のニュース</title>
+      <description>AIエージェントが急速な進化を遂げ、ビジネスや社会を大きく変えようとしています。OpenAIは特定のタスクに特化した小型言語モデル「GPT-5.4 mini/nano」を提供開始。AIエージェントはユーザーの指示を理解し、計画から実行、結果確認までの一連の業務を自律的に自動化する技術です。
+
+この動きに合わせ、Anthropicの「Claude Managed Agents」や日立ヴァンタラの「Hitachi iQ Studio」といったAIエージェント導入・管理を加速させるインフラ整備が進み、CloudflareもAI前提のCMS「EmDash」を発表しています。
+
+ビジネス現場では、高精度産業翻訳AI「T-4OO」がほぼ完全自動翻訳を実現し、PortXは複雑化した業務システムの構造解析にAIエージェントを活用しDXを推進。国内企業もピーエスシーのAI SOCサービス、三菱UFJ銀行の提案書作成への「Orcha」導入、マネーフォワードの経理・労務向けAIエージェント提供、PR TIMESの「AIエージェントが読むための」サイト公開など、多岐にわたる分野で積極的な取り組みを進めています。
+
+一方で、ガートナーが指摘する「静かに事故る」性能問題や、管理・監督なしのAIエージェント利用による法的責任・セキュリティリスクといった課題も顕在化しています。これに対し、ガバナンスと監視体制を確立した「マネージドAI」の導入やゼロトラストセキュリティ基盤の整備が進められています。
+
+GMOの調査では企業のAIエージェント活用率が71%に急増し、将来的にはAIが取引の大部分を担う「マシン経済」の到来や、インターネットプラットフォームが「価値の時代」へ転換するとの予測も。AIエージェントは労働市場の再定義も促す可能性があり、その恩恵を最大限に享受しつつ、潜在的なリスクへの適切な対応が求められています。</description>
+      <pubDate>2026-04-14T09:05:58.347+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-14-09-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-14-09-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月13日17時のニュース</title>
       <description>AIエージェントは、人間のように自律的に思考し行動する革新的な技術として、社会とビジネスの変革を加速させています。
 
