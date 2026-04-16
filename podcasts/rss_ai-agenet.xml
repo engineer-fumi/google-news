@@ -11,6 +11,30 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月16日17時のニュース</title>
+      <description>AIエージェントは自律的な行動でビジネスや社会に大きな変革をもたらしています。
+
+技術面では、OpenAIの「Agents SDK」更新により、AIが複雑な多段階タスクを自律的に実行できるようになりました。一方で、Anthropic、Google、MicrosoftのAIエージェントにおいて、ユーザー認証情報を不正に漏洩させる可能性のあるセキュリティ上の脆弱性が発見され、情報保護の重要性が浮き彫りになっています。
+
+国内外の企業では、AIエージェントの導入や新サービス発表が加速しています。
+*   日本オラクルは既存クラウド連携の「Fusion Agentic Applications」を発表し、複雑な業務プロセスの自動化と意思決定支援を強化。
+*   NECは納期決定や取引先交渉を自動化するシステムを実証し、調達・販売業務の効率化に貢献。
+*   日立は熟練工の「暗黙知」をデータ化する「フィジカルAI」で技術伝承を推進し、日立ソリューションズは輸出規制審査支援AIエージェントでコンプライアンスを強化。
+*   ZOZOは独自のAI活用指標「AZARS」で社内AI活用を促進し、JR東日本グループは安全確保のための「AIポリシー」を策定しました。
+*   マーケティング、金融、法務といった多様な分野で、広告代理業務の自動化支援（NoCodeCamp）、AI投資エージェント（Velpha）、法務業界の変革を目指すAIエージェント（Crosby）などが登場。
+*   Ahrefsはユーザーが個別のマーケティング課題に対応した「自分専用のアプリ」を構築できるAIエージェント「Agent A」を提供し、ElevenLabsとIBMはエンタープライズAIエージェント向けに高度な音声機能を提供。
+
+企業のAI導入を支援するため、株式会社メンバーズが専門組織「AI-PROXカンパニー」を設立し、プログラミング知識不要でAIエージェントを内製化できるトレーニングも提供されています。
+
+また、AIの安全な利用環境整備も進んでいます。エアーはデータ漏洩リスクを懸念せずに生成AIを利用できるプラットフォーム「AIR-NEXUS」を提供。台湾Spingenceと日本Digital Baseは、クラウドサービスを不要とし、社内データに直接接続することで安全にAIを内製化できる基盤を共同開発しました。
+
+AIエージェントの進化は加速しており、技術、サービス、そしてセキュリティやガバナンスへの配慮が今後の動向を左右する重要な要素となっています。</description>
+      <pubDate>2026-04-16T17:06:12.528+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-16-17-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-16-17-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月15日12時のニュース</title>
       <description>AIエージェントがビジネス、行政、個人生活などあらゆる領域で革新を加速させています。
 
