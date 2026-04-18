@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月18日17時のニュース</title>
+      <description>AIエージェントの急速な進化が産業構造、働き方、日常生活に大きな変革をもたらそうとしています。
+
+その応用は多岐にわたり、分散型金融（DeFi）では最新モデル「Grok 4.20」が競合を上回る成績を記録。AIエージェント構築プラットフォームも続々登場し、Cloudflareの「Project Think」は高速・低コストなAIアプリ展開を、オラクルの「Agentic Applications Builder」はビジネスプロセスの自動化を、Wixの「Superagents」はプログラミング知識不要のAIエージェント作成を可能にしています。
+
+ソフトウェア開発分野では、JetBrainsの管理基盤「JetBrains Central」や、OpenAIの刷新された「Codex」、Anthropicの「Claude Opus 4.7」が開発プロセスの自動化と高度化を推進。ビジネスの最前線では、Stripeが「エージェントコマース」の決済インフラの重要性を指摘し、中国ではAIが消費者ニーズを理解し購入・決済まで自動で行う商取引が拡大しています。また、セキュリティ分野でも、SailPointやアクセンチュア・マイクロソフトがAIエージェント保護やサイバー防御ソリューションを提供しています。
+
+これらのAIエージェントの普及は社会やビジネスに大きな変化をもたらしています。ソフトウェア業界ではシニア開発者の知見が再評価され、働き方ではAIによるコード生成や日常業務でのAIツール活用が一般化。AIと人間の協働による生産性向上が期待される一方で、自律型AIの倫理的課題や、コンテンツ制作コストのゼロ化による市場へのコンテンツ氾濫、質の低下、クリエイターの存在意義の希薄化といった深刻な課題も指摘されています。
+
+さらに、競技プログラミングで全人類を上回るAIの登場や「Neural Computers」といった新概念が示されるなど、AIの進化は私たちの想像を超えるスピードで進展。AIエージェントは多大な恩恵をもたらす一方で、倫理的課題や社会への影響に真剣に向き合い、人間とAIが共存する未来を模索していく必要性が高まっています。</description>
+      <pubDate>2026-04-18T17:05:49.453+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-18-17-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-18-17-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月18日09時のニュース</title>
       <description>AI技術の急速な進化と社会実装が進む中、AI開発の最前線では「信頼性」と「安全性」の構築が最重要課題とされています。JR東日本グループはAIポリシーを策定し、グループ会社内でのAI利用時のリスク評価やデータガバナンスなどを義務化。リサーチ会社ガートナーも、多様化する脅威に対する統合的なリスク管理戦略の必要性を警告しています。
 
