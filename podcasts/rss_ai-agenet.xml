@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月19日17時のニュース</title>
+      <description>AIエージェント技術の社会実装が、産業界から行政、個人のブラウジング体験まで幅広い分野で進展しています。
+
+具体的には以下の動きがありました。
+*   **製造業**: NTTデータが、熟練者の暗黙知を形式知化し、生産性向上を支援するシステム「GENIAC-PRIZE」で「ユーザー変革賞」を受賞しました。
+*   **行政分野**: 科学技術情報通信部が独自のエージェント型AIを開発し、業務効率化と質の高い行政サービスの提供を目指します。
+*   **ウェブブラウザ**: グーグルがChromeに新機能「Gemini Skills」を公開し、AIがユーザーのタスクを理解して複雑な操作を自動化することでブラウジング体験を向上させます。
+*   **AIモデル開発**: 中国アリババが大規模言語モデル「Qwen3.6」をオープン公開し、Googleのモデルをベンチマークスコアで上回り、特にエージェント性能で高い成果を見せました。
+*   **スタートアップ**: Base44が、AIが自律的にタスクを実行する新サービス「Superagents」の提供を開始しました。
+*   **企業専門業務**: 日立ソリューションズが、安全保障貿易管理ソリューションにAIエージェントを追加し、複雑な審査業務の自動化・支援を通じて効率化と精度向上に貢献します。
+
+これらの事例は、AIエージェントが生産性向上、人材育成、新たなユーザー体験の創出を促進し、社会のあらゆる側面に変革をもたらしていることを示しています。</description>
+      <pubDate>2026-04-19T17:02:39.614+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-19-17-02.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-19-17-02.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月19日09時のニュース</title>
       <description>AIエージェントはビジネス革新の最前線にあり、様々な企業がその可能性を追求しています。
 
