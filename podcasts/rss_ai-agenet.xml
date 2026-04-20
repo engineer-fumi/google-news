@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月20日09時のニュース</title>
+      <description>AI技術の進化が社会やビジネスを大きく変革する中、特に今年は「AIエージェント」が注目を集めています。ビッグテック各社は自律型AIエージェントの開発競争を激化させ、中国では「OpenClaw」のようなAIエージェントが急速に普及。この動きを支えるインフラとして、CloudflareはAIエージェント向けファイルシステム「Artifacts」とメールサービスを、Salesforceは「Headless 360」を、StripeはAIエージェントによる自律取引を見据えた決済インフラのビジョンを発表しています。広告業界でもAIエージェント間の共通規格整備が進むなど、ソフトウェアの「ヘッドレス化」が加速しています。
+
+また、ソフトバンクがAI搭載スマートフォン「Natural AI Phone」を発表し、クリエイティブ分野ではAIが作成した広告コピーが権威ある賞の最終候補に残るなど、AIは多方面に進出しています。
+
+しかし、その進化は新たな課題も提起しています。専門知識なしにサイバー攻撃を可能にするAIツールの登場はセキュリティの前提を揺るがし、AI活用による新たな業務や専門人材不足から人手不足が深刻化する皮肉な状況も生まれています。さらに、AIが事実と異なる情報を精巧に生成する「幻覚」問題が深刻化し、偽情報拡散、詐欺、ハッキングといったAIエージェントの悪用リスクから、2026年は「AIエージェント危機の年」となる可能性も指摘されています。
+
+ジャーナリズム分野での取材自動化の試みのように、AIの恩恵を最大限に享受しつつ、これらの潜在的なリスクをいかに管理し、倫理的な枠組みを構築していくかが、今後のAIと人間社会の関係を築く上で極めて重要となります。</description>
+      <pubDate>2026-04-20T09:08:56.234+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-20-09-08.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-20-09-08.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月19日17時のニュース</title>
       <description>AIエージェント技術の社会実装が、産業界から行政、個人のブラウジング体験まで幅広い分野で進展しています。
 
