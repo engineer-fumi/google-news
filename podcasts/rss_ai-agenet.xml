@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月20日17時のニュース</title>
+      <description>AIエージェントは、自律的な判断と行動を特徴とし、業務効率化や新たな価値創造への期待が高まる一方、セキュリティ、倫理、制御不能化といった多岐にわたるリスクが懸念されています。
+
+既に社会実装が進んでおり、会計ソフト大手の弥生ではAI駆動開発によりシステム開発期間を50%短縮。Adobeは「Firefly AI Assistant」でクリエイティブ制作を、Robloxは開発ツールでゲーム開発を効率化しています。LINEヤフーは「Agent i」でAIエージェントサービスを統括し、GEM Partnersはエンタメ分析AI「GAI」を提供。横浜スカイビルは人流分析に、大阪府などは外国人労働者向け病院案内にAIエージェントを活用しています。決済大手のStripeはAIがユーザーに代わり購買を行う「エージェントコマース」の可能性を分析しつつ、信頼性やセキュリティの課題を指摘しています。
+
+中国では「24時間無休の秘書」としてAIエージェントが普及する一方で、情報漏洩リスクから政府がデータ管理を強化する動きも見せています。
+
+AIエージェントはビジネスや生活に革新をもたらす可能性が高いものの、実装前のリスク管理、特に複雑化した業務プロセスの見直しが不可欠です。計り知れない可能性を秘める一方で、その自律性の高さゆえに倫理的・社会的な課題も浮上しており、技術発展と並行したリスク管理と社会的なルール作りが急務とされています。</description>
+      <pubDate>2026-04-20T17:09:50.527+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-20-17-09.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-20-17-09.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月20日09時のニュース</title>
       <description>AI技術の進化が社会やビジネスを大きく変革する中、特に今年は「AIエージェント」が注目を集めています。ビッグテック各社は自律型AIエージェントの開発競争を激化させ、中国では「OpenClaw」のようなAIエージェントが急速に普及。この動きを支えるインフラとして、CloudflareはAIエージェント向けファイルシステム「Artifacts」とメールサービスを、Salesforceは「Headless 360」を、StripeはAIエージェントによる自律取引を見据えた決済インフラのビジョンを発表しています。広告業界でもAIエージェント間の共通規格整備が進むなど、ソフトウェアの「ヘッドレス化」が加速しています。
 
