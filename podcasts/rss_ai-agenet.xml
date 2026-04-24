@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月24日12時のニュース</title>
+      <description>AIエージェントは、自律的に目標設定・計画・実行を行う「エージェンティックAI」として社会のあらゆる領域で急速に進化し、働き方や暮らしを変革しています。
+
+その基盤技術としては、Google Cloudの「Gemini Enterprise Agent Platform」、Snowflakeの「Snowflake Intelligence」や「Cortex Code」、Domoの「AI Agent Builder」、アドビのマーケティングプラットフォームなどが企業のAI導入・運用を支援。Anthropicの高性能モデル「Claude Opus 4.7」も進化を支えます。
+
+導入事例は多岐にわたり、ソフトバンクは「アプリレス」を掲げるAIエージェント搭載スマホ「Natural AI Phone」を発表。企業向けでは、NTTデータが新商品コンセプト案を自動生成するサービス、ファーストアカウンティングと味の素FSが経理AIエージェントを本格運用。スクウェア・エニックスはマンガ制作の写植指定にAIを導入し、チューリッヒは橋梁診断支援AI「橋梁アセスタ」を開発しました。営業支援ツールへのAIスコアリング機能追加や、金融業界での4万個のAIエージェント導入計画も進行中。さらに、ソニーは卓球エリート選手と互角に渡り合えるロボットを開発し、アイシンはトヨタのウーブン・シティで生活を豊かにするAIエージェントを展示しています。
+
+企業がAIエージェントを活用するための支援も活発で、博報堂が導入コンサルティング、SHIFT AIが「AIエージェント入門研修」を提供しています。
+
+一方で、AIの「ミスアライメント」（人間と異なる目標を追求するリスク）や人間によるAIへの過信といった課題も指摘されており、Auth0 for AI Agentsのような身元確認・アクセス制御ソリューションが安全な運用に貢献しています。AIは現場主導のデータ活用を促進し、エンジニアの仕事内容もコード生成から設計・創造的思考へとシフトするなど、人々の働き方自体に大きな変化をもたらす可能性を秘めています。
+
+AIエージェントは社会を根底から変革する可能性を秘めている一方で、そのリスク管理と人間とAIが健全に共存する未来を築くことが、今後の社会にとって最も重要な課題となるでしょう。</description>
+      <pubDate>2026-04-24T12:07:13.207+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-24-12-06.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-24-12-06.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月23日12時のニュース</title>
       <description>AIエージェントがビジネスから日常生活まであらゆる分野に変革をもたらしている現状を報じるニュース原稿です。
 
