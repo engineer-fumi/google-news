@@ -11,6 +11,22 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月25日12時のニュース</title>
+      <description>AIエージェントは、ビジネス、産業、働き方を革新する主要な原動力となっています。
+
+企業間では、AIエージェント開発の基盤強化に向けた戦略的動きが活発です。MetaはAWS Gravitonチップの供給契約を締結しAIインフラの最適化を図り、AIエージェント支援企業のOrkesは大型資金調達を実施。多くの企業が競争優位確立のためにAIエージェントの戦略的導入を重視しており、WorkdayのようにAIを「人材」と捉え人事システムと統合する動きも見られます。
+
+AIエージェントの活用事例は多岐にわたります。プロンプト入力なしでブラウザ操作を自動化するツール「Copelf」、ExcelからAIアプリを生成する「ENSOU App」、対話型アプリ開発プログラム「SAMURAI Sprint」などが登場し、業務効率化や専門知識不要のアプリ開発を推進しています。建設現場の施工管理を自動化する「フィジカルAIエージェント」や、営業・広告分野での自動化（Sales Copilot、SNS広告運用自動化）も進展。カスタムAIエージェント構築サービスやJava開発者向け基盤、量子AIエージェントも提供されています。身近な例では、LINEヤフーがAIエージェントをLINEアプリの「日程調整」機能に応用し、利便性向上を目指しています。
+
+一方で、AIエージェントの進化は新たな課題も提起しています。サイバーセキュリティ分野では、IBM Japanが「エージェント型攻撃」への対策を発表し、ExabeamやSilverfortもAIエージェントを含む広範なID保護や悪意ある活動の検知を強化しています。一部ツールでは外部システム連携時の予期せぬ挙動といった安全面の課題も指摘されています。倫理的側面では、AIの判断根拠を明確にする「DI（Decisional Intelligence）」の概念やAI活用ガイドラインの策定が重要視されています。また、AIがルーティン業務を代替する中で、人間には「ゼロからイチを生む」創造性や本質的思考、そしてそれに対応するリスキリングが求められています。
+
+AIエージェントは産業界に新たな効率と可能性をもたらす一方で、セキュリティ、倫理、働き方、さらには決済システム（ステーブルコインの必要性）といった社会インフラへの影響も含め、様々な側面で課題を提示しており、今後の動向に注目が集まります。</description>
+      <pubDate>2026-04-25T12:05:32.372+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-25-12-05.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-25-12-05.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月25日09時のニュース</title>
       <description>AIエージェントの進化が社会変革の波を巻き起こしています。OpenAIの「GPT-5.5」やGoogleの新型AIチップ・Workspace新機能、Microsoftの「Copilot」エージェントモードなど、海外の巨大テック企業は、自律的に複雑なタスクをこなす「エージェント型AI」の開発とビジネスへの応用を加速。NVIDIAは、人間が見分けられないレベルの生成AI技術を披露し、その進化の速さを示しました。
 
