@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年04月27日17時のニュース</title>
+      <description>AIエージェントはビジネス、社会、技術のあらゆる側面に浸透し、私たちの生活やビジネスのあり方を根本から変革しつつある。
+
+ビジネス分野では、ServiceNowが「自動化された企業」への変革を提唱し、業務効率向上を目指す。プラストの「Passwork」やADiusの「ADiOS」は、チームコラボレーションやマーケティング戦略立案・実行においてAIエージェントが業務自動化と生産性向上を実現。マネーフォワードは会計業務の効率化を、ニーズウェルは企業データと生成AIの連携を支援する。また、AIを活用し現場マネージャーがシステム開発を行う「全員開発者」体制の構築も進められている。
+
+技術開発面では、「仕様駆動開発」における「仕様」の再定義が進み、PythonライブラリLangGraphを用いたAIエージェント構築法が公開された。PythonがAI開発の「入口」である一方、JavaはAIモデルの安定稼働を支える堅牢な実行基盤として重要性を増している。AIアプリケーションの可視化・デバッグ・最適化を支援する「Langfuse」や、AIエージェントの障害を自動診断するオープンソースツール「AgentRx」も登場。半導体分野では、AWS Graviton導入やスマートフォン向けAIプロセッサ開発など、AI処理能力向上の動きが加速している。
+
+社会の広範な分野でも活用が進む。インターネットトラフィックではAIによるアクセス量が人間を上回り、ウェブ空間の人間中心主義に変化が見られる。ヘルスケアではAIエージェント「TUUN」が多様な生体情報を分析し、パーソナライズされた健康維持アドバイスを提供。トヨタは「Woven City AI Vision Engine」で街の映像を理解し交通安全支援に活用する。GMOサイバーセキュリティはAIエージェントによる脆弱性特定テストを開始。セールスフォースと博報堂はAIエージェントが広告営業を革新すると見込む。
+
+AIエージェントは時に予想外の行動を見せる（Anthropicの「Project Deal」）一方で、DeNAの南場会長のように、その可能性と人間との最適な協業の形が模索されている。国内最大級のカンファレンス「AI Agent Day 2026 Summer」開催が決定するなど、AIエージェントの未来に関する議論も活発化している。
+
+AIエージェントの進化は計り知れない可能性をもたらすと同時に新たな課題も提起しており、人間とAIの共存・協調の模索は今後も続くだろう。</description>
+      <pubDate>2026-04-27T17:06:52.992+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-27-17-06.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-04-27-17-06.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年04月27日12時のニュース</title>
       <description>AIエージェントの最新動向として、働き方や社会変革の可能性が多岐にわたる分野で報じられています。
 
