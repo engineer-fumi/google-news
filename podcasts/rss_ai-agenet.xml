@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年05月03日12時のニュース</title>
+      <description>AIエージェントは、教育、ビジネス、社会の広範な分野で変革を推進しています。教育分野では、東海大学が個別最適化された学習支援に導入。ビジネスでは、韓国政府が公共機関・企業向けワークショップを開催し、香川県とSAMURAIはDX人材育成講座を開始しました。マイクロソフトは企業向け統合管理サービス「Agent 365」を提供し、AIエージェント導入により約8億円の機会損失を克服した中小企業の成功事例も報告されています。
+
+技術面では、NVIDIAが「実行するAI」への進化を推進し、Googleは開発効率化ツール「Agents CLI」を発表。しかし、実用化におけるデモと本番環境の性能差、普及の壁、データ品質維持といった課題も指摘されています。
+
+AIエージェントは、MoonAgent Cardによるオンラインでの自律決済、楽天トラベルの予約機能、Grokによる動画・マンガの自律生成など、私たちの日常や経済活動に大きな変化をもたらし、「財布を持つAI」による新たな経済圏の誕生も予測されています。
+
+一方で、偽情報のリスク増大、サイバーセキュリティ強化の必要性、自律型AIの潜在的脅威といった課題も浮上しており、76の国際組織が連携して「信頼インフラ」の構築を進めています。AIエージェントの無限の可能性を最大限に引き出しつつ、セキュリティや倫理といった課題に戦略的に向き合うことが、今後ますます重要となるでしょう。</description>
+      <pubDate>2026-05-03T12:08:56.362+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-05-03-12-08.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-05-03-12-08.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年05月02日12時のニュース</title>
       <description>AIエージェントが、ビジネス支援、金融、開発・R&D、行政、教育、生活、物流など多岐にわたる分野で進化し、社会に変革をもたらしています。
 
