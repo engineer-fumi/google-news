@@ -11,6 +11,24 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年05月05日12時のニュース</title>
+      <description>AI技術の最新動向として、ビジネス効率化、セキュリティ対策、日常生活への影響に焦点を当てたニュースが報じられました。
+
+まず、エンジニア向け専門誌「Software Design」最新号は、質問力向上とコンテナセキュリティ対策に特化した特集を展開し、エンジニアの課題解決とスキル向上を支援します。
+
+ビジネス効率化の分野では、AIエージェントの活用が加速。JAPAN AI MARKETINGは広告バナー生成AIエージェントで広告制作の工数とコストを削減、Blendは住宅ローン貸付業者向けAIエージェントプラットフォームで申請処理や顧客対応を自動化します。また、楽天トラベルのAIエージェント「Rakuten AI」には宿泊予約機能が追加され、旅行プラン提案から予約までを一貫してサポートできるようになりました。
+
+AI普及に伴い、セキュリティ対策も強化されています。シスコシステムズはAstrix Securityを買収し、APIキーなどの「非人間ID」のセキュリティ保護を強化。アンソロピックとFISは金融犯罪対策に特化したAIエージェントを共同開発し、不正取引検出能力の向上を目指します。
+
+AIエージェントは中堅・中小企業やスマートホーム分野でも普及が進んでおり、Google Agentspaceの人気やSwitchBotによるスマートホームの高度な自動制御サービスなどが紹介されました。しかし、OpenAIは人間が管理できるAIエージェント数に限界があるという「人間がボトルネック」問題を指摘し、AIエージェントの自律的な運用を可能にする仕組みを開発中であると発表しました。
+
+これらの動向から、AI技術が多様な分野で進化を続ける一方で、その普及と活用をさらに進める上での新たな課題も浮上していることが示されました。</description>
+      <pubDate>2026-05-05T12:03:04.022+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-05-05-12-02.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-05-05-12-02.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年05月04日17時のニュース</title>
       <description>IT業界のデジタル変革を巡り、大手企業の動向が注目されています。
 
