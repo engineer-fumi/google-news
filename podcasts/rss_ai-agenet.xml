@@ -11,6 +11,20 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年05月07日09時のニュース</title>
+      <description>AIエージェントは、生成AIの次の波として社会とビジネスを変革する新時代を到来させつつあります。アップルやメタが開発を加速させる一方、Xenonは多様なAIエージェントを統合するポータルサービス「GenA」を公開。企業向けにはTwilioが顧客コミュニケーション自動化、Anthropicが金融特化型エージェントを提供し、楽天トラベルの予約機能付きAIやアドビの顧客体験最適化基盤など、身近なサービスにも導入が進んでいます。
+
+技術面では、AIエージェントがデータ整理や情報収集で業務効率化に貢献し、AnthropicのAIには自律学習機能「Dreaming」が追加。AMDはAIエージェントがCPU市場の成長を牽引すると見ており、ソフトウェア競争の軸もAPI連携へと移行し、RPAとの連携で業務自動化がさらに加速しています。
+
+未来には、OpenAIが自律実行型「エージェントスマホ」を開発中であり、AIエージェントが人間の役割を凌駕し、現在の広告ベース経済モデルを破壊する可能性も指摘されています。しかし、ITマネージャーの77%がAIエージェントを「制御不能」と認識する課題も浮上しており、マイクロソフトはAI統制サービス「Agent 365」で対応。オンライン本人確認の困難化に対しては、東京大学が分散型「人間証明」ネットワークに参画するなど、倫理的利用とガバナンス強化が喫緊の課題となっています。
+
+AIエージェントは社会に大きな変革をもたらす一方で、倫理、ガバナンス、セキュリティ、そして社会構造そのものの変化といった多岐にわたる課題を抱えており、今後の動向には深い議論と慎重な対応が求められます。</description>
+      <pubDate>2026-05-07T09:09:21.290+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-05-07-09-09.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-05-07-09-09.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年05月06日17時のニュース</title>
       <description>AIエージェントに関する最新ニュースでは、その多角的な進化と応用が紹介されています。
 
