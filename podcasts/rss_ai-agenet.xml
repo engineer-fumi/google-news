@@ -11,6 +11,23 @@
     <itunes:image href="https://engineer-fumi.github.io/google-news/podcasts/artwork.png" />
 
     <item>
+      <title>2026年05月10日17時のニュース</title>
+      <description>このニュース原稿は、IT・テクノロジーの最新動向を伝えるもので、主に以下の3つのテーマに焦点を当てています。
+
+1.  **LINEの新機能問題**: コミュニケーションアプリLINEに導入された『返信を提案』機能が、入力欄の圧迫や30日ごとの自動再有効化により利用者から不評を買っており、恒久的な停止オプションや改善が求められています。
+
+2.  **AIエージェントが変えるビジネスと未来**: 今週最も注目されたキーワードで、多岐にわたる影響が報じられています。
+    *   **ビジネス・SaaS運用効率化**: AI時代のSaaS戦略変革、Claude Coworkを活用した業務効率化の時短プロンプト、AIによる営業商談準備・後処理の時間削減、広告運用自動化AI『AIパクくん』の登場、NotionのAIエージェント新機能『Plan Mode』など、ビジネスにおける効率化と自動化が加速しています。
+    *   **技術とガバナンスの進化**: マルチエージェントシステムによる自動化加速、JetBrainsによるAI駆動開発の透明性確保、富士通・NTTによるAIエージェントの権限制御実証実験、行政領域向けAIエージェント開発基盤の提供が進む中、ガバナンス対応と技術追従が主要課題とされ、AnthropicはAIエージェントの出力形式をHTMLへ移行することを提案しています。
+    *   **金融・Web3の融合**: バイナンス創設者がAIエージェントによる暗号通貨決済の主流化を予測し、ExodusはAI経済活動支援のステーブルコイン『XO Cash』を発表。AptosはAIエージェント向け金融取引基盤に投資するなど、AIとブロックチェーンの融合が加速しています。
+
+3.  **その他のテクノロジー動向と未来への展望**: SpotifyがAI生成音声コンテンツの保存ツールを、Twilioが顧客コミュニケーション最適化機能を発表。情シス部門はAI進化による未知のリスクへの対応に迫られる一方、OpenClawはAIエージェントによる個人での大規模企業創出の可能性を提示。GoogleとMetaは自律型AI技術に注力し、AMD株価はAIエージェントの登場によるCPUの重要性再認識（CPUルネサンス）で急伸しました。また、AIエージェントの進化がGoogleの支配的地位に『反撃』をもたらし、テック業界に新たな競争環境が生まれる可能性も指摘されています。</description>
+      <pubDate>2026-05-10T17:06:42.144+09:00</pubDate>
+      <enclosure url="https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-05-10-17-06.mp3" type="audio/mpeg" length="0" />
+      <guid>https://engineer-fumi.github.io/google-news/podcasts/podcast_audio_ai-agenet_2026-05-10-17-06.mp3</guid>
+    </item>
+  
+    <item>
       <title>2026年05月10日12時のニュース</title>
       <description>AIエージェントの技術が目覚ましい進展を見せる中、AIがビジネスや日常生活に深く浸透しつつあります。
 
